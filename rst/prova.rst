@@ -3,6 +3,8 @@
 
 
 +---------------------------------------------------------------------------------------------------------------------------------+
+|  Box                                                                                                                            |
+|                                                                                                                                 | 
 |  `OpendataSicilia <http://opendatasicilia.it>`_                                                                                 |
 |                                                                                                                                 |
 |  `Non Portale open data Regione Sicilia <http://nonportale.opendatasicilia.it/index.html>`_                                     |
