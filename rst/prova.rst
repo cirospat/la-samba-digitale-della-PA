@@ -4,9 +4,13 @@
 
 +--------------------------------------------------------------------------------------------+
 | [http://opendatasicilia.it](OpendataSicilia)                                               |
-| [http://nonportale.opendatasicilia.it/index.html](Non Portale open data Regione Sicilia)   | 
+|                                                                                            |
+| [http://nonportale.opendatasicilia.it/index.html](Non Portale open data Regione Sicilia)   |
+|                                                                                            |
 | [http://petrusino.opendatasicilia.it/index.html](Petrusino)                                |
+|                                                                                            |
 | [http://albopop.it](Albo Pop)                                                              |
+|                                                                                            |
 | [http://www.foiapop.it](FOIA Pop)                                                          |
 +--------------------------------------------------------------------------------------------+
 
