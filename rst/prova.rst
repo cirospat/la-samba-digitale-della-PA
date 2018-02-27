@@ -1,5 +1,25 @@
 
 
+
+
+
+<h3>Servizi di<span>&nbsp;</span><a href="http://opendatasicilia.it/" rel="nofollow">OpendataSicilia</a></h3>
+<p><a href="http://accussi.opendatasicilia.it/index.html" rel="nofollow"><img src="https://camo.githubusercontent.com/24bc1b1450d155db547405fa90d92b6b34f4a132/68747470733a2f2f6369726f737061742e6769746875622e696f2f6d6170732f696d672f616363757373695f66617669636f6e2e706e67" alt="accussi" width="32" height="32" data-canonical-src="https://cirospat.github.io/maps/img/accussi_favicon.png" /></a>&nbsp; &nbsp;&nbsp;<a href="http://nonportale.opendatasicilia.it/index.html" rel="nofollow"><img src="https://camo.githubusercontent.com/7ad90a32a27ec7b68b3f5d1c9aec83d0bf5e4120/68747470733a2f2f6369726f737061742e6769746875622e696f2f6d6170732f696d672f6e6f6e706f7274616c655f66617669636f6e2e706e67" alt="non portale" width="32" height="32" data-canonical-src="https://cirospat.github.io/maps/img/nonportale_favicon.png" /></a>&nbsp;<span>&nbsp;</span><a href="http://petrusino.opendatasicilia.it/index.html" rel="nofollow"><img src="https://camo.githubusercontent.com/acae135c1a21da78bfd3423518810cd5465a8642/68747470733a2f2f6369726f737061742e6769746875622e696f2f6d6170732f696d672f706574727573696e6f5f66617669636f6e2e706e67" alt="petrusino" width="32" height="32" data-canonical-src="https://cirospat.github.io/maps/img/petrusino_favicon.png" /></a></p>
+<p><a href="http://albopop.it/" rel="nofollow">Albo Pop&nbsp;</a>/&nbsp;<a href="http://www.foiapop.it/" rel="nofollow">FOIA Pop&nbsp;</a>/&nbsp;<a href="http://www.visualcad.it/" rel="nofollow">Visual CAD</a></p>
+<p>Licenza aperta&nbsp;<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="nofollow"><img alt="Licenza Creative Commons" src="https://camo.githubusercontent.com/d1b3cb5c3bc0b0de6fb5445b1657c03464125482/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f342e302f38307831352e706e67" data-canonical-src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a></p>
+<p><strong>OpenDataSicilia</strong> &egrave; una iniziativa civica condivisa da pi&ugrave; persone, che si propone di far conoscere e diffondere la cultura dell'open government e le prassi dell'open data nel nostro territorio e aprire una discussione pubblica partecipata. Siamo anche su:</p>
+<ul>
+<li>la nostra <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank" rel="noopener">mailing list</a> di lavoro;</li>
+<li>il nostro <a href="http://opendatasicilia.it" target="_blank" rel="noopener">blog</a>;</li>
+<li>il nostro gruppo <a href="https://www.facebook.com/groups/opendatasicilia" target="_blank" rel="noopener">facebook</a>;</li>
+<li>l'account <a href="http://twitter.com/opendatasicilia" target="_blank" rel="noopener">twitter</a>;</li>
+<li>il canale <a href="http://opendatasicilia.slack.com" target="_blank" rel="noopener">Slack</a><span>&nbsp;</span>(<a href="http://slack.opendatasicilia.it" target="_blank" rel="noopener">per iscriversi</a>).</li>
+</ul>
+
+
+
+
+
 +---------------------------------------------------------------------+
 | Box                                                                 |
 |                                                                     |
