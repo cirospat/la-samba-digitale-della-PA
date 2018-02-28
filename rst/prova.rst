@@ -1,7 +1,7 @@
 
 
 .. list-table:: Frozen Delights!
-   :widths: 15 10 30
+   :widths: 15 15 30
    :header-rows: 1
 
    * - Treat
