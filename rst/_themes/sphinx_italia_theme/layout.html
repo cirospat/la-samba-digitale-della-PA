@@ -32,7 +32,31 @@
 </head>
 
 <body class="wy-body-for-nav" role="document">
+<div id="slimheader">
+    {% include "offcanvas.html" %}
+    <div class="sh__wrapper">
+    <div class="sh__institutional">
+        <a class="pushy-menu-btn menu-btn" href="#"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTkuMnB4IiBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCAxMiAxMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSIxMDI0dXAiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSItLWhvbWUtLS1wYXJhbGxheC0tLW1vYmlsZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTI0LjAwMDAwMCwgLTIwLjAwMDAwMCkiIGZpbGw9IiNGRkZGRkYiPgogICAgICAgICAgICA8ZyBpZD0iLW5ldHdvcmstc2xpbS1oZWFkZXIiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTI0LDI0IEwzNiwyNCBMMzYsMjYgTDI0LDI2IEwyNCwyNCBaIE0yNCwyMCBMMzIsMjAgTDMyLDIyIEwyNCwyMiBMMjQsMjAgWiBNMjQsMjggTDMyLDI4IEwzMiwzMCBMMjQsMzAgTDI0LDI4IFoiIGlkPSJpY29uLXNtYWxsLWJ1cmdlciI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="></a>
 
+        <a href="http://www.agid.gov.it/" title="Agid">AgID</a>
+        <span class="sh__plus">&nbsp;+&nbsp;</span>
+        <a href="https://teamdigitale.governo.it/" title="Team Digitale">Team Digitale</a>
+    </div><!--/sh__institutional-->
+    <div class="sh__tabs">
+    <ul class="sh__tabsul">
+      <li class="delimiter"><a  href="https://pianotriennale-ict.italia.it">Piano Triennale</a></li>
+      <li class=""><a href="https://developers.italia.it/">Developers</a></li>
+      <li class="delimiter"><a  href="https://designers.italia.it">Designers</a></li>
+      <li class=""><a href="https://forum.italia.it/">Forum</a></li>
+      <li class="current"><a href="https://docs.developers.italia.it/">Docs</a></li>
+      <li class=""><a href="https://github.com/italia/">Github</a></li>
+    </ul>
+    </div><!--/.sh__tabs-->
+		<div class="burger" data-toggle="wy-nav-top">
+		  <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAzMiAzMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02LjEsOC45bDE3LDE3YzAuOCwwLjgsMi4xLDAuOCwyLjgsMGMwLjgtMC44LDAuOC0yLjEsMC0yLjhsLTE3LTE3Yy0wLjgtMC44LTIuMS0wLjgtMi44LDBTNS4zLDguMiw2LjEsOC45eiINCgkvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTIzLjEsNi4xbC0xNywxN2MtMC44LDAuOC0wLjgsMi4xLDAsMi44YzAuOCwwLjgsMi4xLDAuOCwyLjgsMGwxNy0xN2MwLjgtMC44LDAuOC0yLjEsMC0yLjgNCglDMjUuMSw1LjMsMjMuOCw1LjMsMjMuMSw2LjF6Ii8+DQo8L3N2Zz4=">
+		</div>
+    </div><!--/.wrapper-->
+</div><!--/#slimheader-->
 	
     {% block extrabody %} {% endblock %}
     <div class="wy-grid-for-nav">
