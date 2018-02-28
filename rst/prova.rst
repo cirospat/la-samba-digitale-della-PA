@@ -9,6 +9,14 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
    interpreted as body elements.
    
 
+.. line-block::
+
+        Lend us a couple of bob till Thursday.
+        I'm absolutely skint.
+        But I'm expecting a postal order and I can pay you back
+            as soon as it comes.
+
+
 .. list-table:: Frozen Delights!
    :widths: 20,20,20
    :header-rows: 1
