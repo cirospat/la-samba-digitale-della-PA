@@ -19,9 +19,9 @@
      - On a stick!
 
 
-.. meta::
-   :description: The reStructuredText plaintext markup language
-   :keywords: plaintext, markup language
+.. container:: custom
+
+   This paragraph might be rendered in a custom way
 
 
 +--------------------------------------------------------------------------------------------------------------------------------+
