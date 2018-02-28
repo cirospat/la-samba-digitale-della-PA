@@ -96,3 +96,13 @@ Note finali
    :file: ods.html
    
 ------------
+
+.. sidebar:: OpendataSicilia
+   :subtitle: servizi
+
+   Accussi
+   Petrusino
+   Non Portale
+   Albo pop
+   Foia pop
+   Visual Cad
