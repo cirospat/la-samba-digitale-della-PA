@@ -97,12 +97,21 @@ Note finali
    
 ------------
 
-.. sidebar:: OpendataSicilia
-   :subtitle: servizi
-
-   Accussi
-   Petrusino
-   Non Portale
-   Albo pop
-   Foia pop
-   Visual Cad
++--------------------------------------------------------------------------------------------------------------------------------+
+| Box                                                                                                                            |
+|                                                                                                                                | 
+| Servizi di `**OpendataSicilia** <http://opendatasicilia.it>`_                                                                  |
+|                                                                                                                                |
+| `Non Portale open data Regione Sicilia <http://nonportale.opendatasicilia.it/index.html>`_                                     |
+|                                                                                                                                |
+| `Petrusino <http://petrusino.opendatasicilia.it/index.html>`_                                                                  |
+|                                                                                                                                |
+| `Accussì <http://accussi.opendatasicilia.it/index.html>`_                                                                      |
+|                                                                                                                                |
+| `Albo Pop <http://albopop.it>`_                                                                                                |
+|                                                                                                                                |
+| `FOIA Pop <http://www.foiapop.it>`_                                                                                            |
+|                                                                                                                                |
+| `Visual CAD <http://www.visualcad.it/>`_                                                                                       |
+|                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------+
