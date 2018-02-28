@@ -47,22 +47,27 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
 +--------------------------------------------------------------------------------------------------------------------------------+
 | Box                                                                                                                            |
 |                                                                                                                                | 
-| `OpendataSicilia <http://opendatasicilia.it>`_                                                                                 |
+| **Servizi di `OpendataSicilia <http://opendatasicilia.it>`_**                                                                  |
 |                                                                                                                                |
 | `Non Portale open data Regione Sicilia <http://nonportale.opendatasicilia.it/index.html>`_                                     |
 |                                                                                                                                |
 | `Petrusino <http://petrusino.opendatasicilia.it/index.html>`_                                                                  |
 |                                                                                                                                |
+| `Accussì <http://accussi.opendatasicilia.it/index.html>`_                                                                      |
+|                                                                                                                                |
 | `Albo Pop <http://albopop.it>`_                                                                                                |
 |                                                                                                                                |
 | `FOIA Pop <http://www.foiapop.it>`_                                                                                            |
+|                                                                                                                                |
+| `Visual CAD <http://www.visualcad.it/>`_                                                                                       |
+|                                                                                                                                |
 +--------------------------------------------------------------------------------------------------------------------------------+
 
 
 
 +---------------------------------------------------------------------+
-| Box                                                                 |
-|                                                                     |
+| Box                                                                                                |
+|                                                                                                    |
 | il movvv bbbbbbbbb bbbb bbb bbbbb bbbb bbbb bbb b b bbbbb b b bbbb b|
 | a nuove modalità di relazione e confronto con il mercato, in linea  |
 | con le grandi sfide poste da una Pubblica amministrazione           |
