@@ -2,7 +2,7 @@
 
 **Cosa è**
 
-E' un report per capire un po meglio la PA nel suo cammino verso la **transizione al digitale** del Codice dell'Amministrazione Digitale.
+E' un report per capire un po meglio la PA nel suo cammino articolato verso la **transizione al digitale** del Codice dell'Amministrazione Digitale.
 Riflessioni, appunti e input di Ciro Spataro.
 <p><img class="imageLeft" style="width: 53px; height: 60px;" src="https://raw.githubusercontent.com/cirospat/la-samba-digitale-della-pa/master/imgrel/3loghi.png" alt="HTML editor tools" />
   
@@ -23,6 +23,13 @@ Riflessioni, appunti e input di Ciro Spataro.
 Costruito su [`rst/`](./rst)
 
 integrato con  `html`
+
+
+**Altri strumenti che mi sono stati utili**
+
+http://docutils.sourceforge.net/docs/ref/rst/directives.html (per capire meglio la sintassi del linguaggio reStructuredText)
+
+http://pandoc.org/try (per convertire il linguaggio Markdown nel linguaggio reStructuredText)
 
 
 **Riuso**
