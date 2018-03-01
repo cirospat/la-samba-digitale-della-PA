@@ -57,11 +57,11 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
 - Salvatore Marras, Laura Manconi, Gianfranco Andriola, Gianluca Affinito, Sergio Agostinelli, tutti del `FormezPA <http://eventipa.formez.it/>`_ (con i loro costanti validi webinar sul mondo dei dati, delle competenze digitali a 360°, stanno formando migliaia di dipendenti con una metodologia nuova e piacevole).
 
-- le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici, del design.
+- Le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici, del design.
 
 - Matteo Troia per gli stimoli inviati e ricevuti utili a creare il report su Read The Docs della "Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane". 
 
-- tante persone per me molto importanti con le quali ho condiviso conoscenza e dalle quali ho acquisito cultura digitale in diverse occasioni online e in presenza: Giovanni Pirrotta, Nino Galante, Giuseppe Ragusa, Totò Fiandaca, Fabio Disconzi, Daniele Mondello, Marco Lombardo, Matteo Tempestini, Andrea Nelson Mauro, Flavia Marzano, Ernesto Belisario, Simone Aliprandi, Daniele Crespi, Maurizio Napolitano, Matteo Brunati .... e altri/e che sicuramente dimentico in questo momento mentre scrivo e me ne scuso.
+- Tante persone per me molto importanti con le quali ho condiviso conoscenza e dalle quali ho acquisito cultura digitale in diverse occasioni online e in presenza: Giovanni Pirrotta, Nino Galante, Giuseppe Ragusa, Totò Fiandaca, Fabio Disconzi, Daniele Mondello, Marco Lombardo, Matteo Tempestini, Andrea Nelson Mauro, Flavia Marzano, Ernesto Belisario, Simone Aliprandi, Daniele Crespi, Maurizio Napolitano, Matteo Brunati .... e altri/e che sicuramente dimentico in questo momento mentre scrivo e me ne scuso.
 
 |
 
