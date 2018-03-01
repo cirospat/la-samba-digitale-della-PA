@@ -43,7 +43,7 @@ Ascoltiamo, in `un intervista al minuto 28:30 <https://youtu.be/8j9U54m5Shk?t=17
    
    Da Piacentini arriva un messaggio chiaro → **costruire “digital service” da fruire online, non “siti web”**
 
-Piacentini in questo articolo `«Ho fatto un sogno l’Italia (digitale) unita» <http://corriereinnovazione.corriere.it/2018/02/27/ho-fatto-sogno-l-italia-digitale-unita-cc2475c8-1ba3-11e8-812e-cc191dd87fa8.shtml>`_ dice chiaramente: *dobbiamo creare le condizioni affinché la Pa acquisti tecnologia e servizi innovativi basandosi sulla qualità dell’output e non su fabbisogni pluriennali misurati su punti funzionali (siamo uno dei pochissimi Paesi che continua ad usare i function points per valutare i progetti di tecnologia) la cui misurazione spesso è completamente scollegata rispetto ai costi di sviluppo e al raggiungimento dell’obiettivo di progetto.*
+Piacentini in questo articolo del CorriereInnovazione `«Ho fatto un sogno l’Italia (digitale) unita» <http://corriereinnovazione.corriere.it/2018/02/27/ho-fatto-sogno-l-italia-digitale-unita-cc2475c8-1ba3-11e8-812e-cc191dd87fa8.shtml>`_ dice chiaramente: *dobbiamo creare le condizioni affinché la Pa acquisti tecnologia e servizi innovativi basandosi sulla qualità dell’output e non su fabbisogni pluriennali misurati su punti funzionali (siamo uno dei pochissimi Paesi che continua ad usare i function points per valutare i progetti di tecnologia) la cui misurazione spesso è completamente scollegata rispetto ai costi di sviluppo e al raggiungimento dell’obiettivo di progetto.*
 
 
 |
