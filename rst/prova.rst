@@ -1,6 +1,11 @@
 http://docutils.sourceforge.net/docs/ref/rst/directives.html
 
 
+|  TITOLO | BALL | NEXT |
+|  ------ | ------ | ------ |
+|  Il report nasce da un periodo di analisi del fenomeno della penetrazione del digitale in alcune PA, e dalle interazioni, da dipendente di una PA, con altri soggetti che a vario titolo lavorano nella e per la PA. | nomeno della penetrazione del digitale in alcune PA, e dalle interazioni, da dipendente di una PA, co3 | nomeno della penetrazione del digitale in alcune PA, e dalle interazioni, da dipendente di una PA, co4 |
+
+
 .. sidebar:: Sidebar Title
    :subtitle: Optional Sidebar Subtitle
 
