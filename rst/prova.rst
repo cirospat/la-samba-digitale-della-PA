@@ -1,9 +1,22 @@
 http://docutils.sourceforge.net/docs/ref/rst/directives.html
 
 
-|  TITOLO | BALL | NEXT |
-|  ------ | ------ | ------ |
-|  Il report nasce da un periodo di analisi del fenomeno della penetrazione del digitale in alcune PA, e dalle interazioni, da dipendente di una PA, con altri soggetti che a vario titolo lavorano nella e per la PA. | nomeno della penetrazione del digitale in alcune PA, e dalle interazioni, da dipendente di una PA, co3 | nomeno della penetrazione del digitale in alcune PA, e dalle interazioni, da dipendente di una PA, co4 |
++-----------------------+-----------------------+-----------------------+
+| TITOLO                | BALL                  | NEXT                  |
++=======================+=======================+=======================+
+| Il report nasce da un | nomeno della          | nomeno della          |
+| periodo di analisi    | penetrazione del      | penetrazione del      |
+| del fenomeno della    | digitale in alcune    | digitale in alcune    |
+| penetrazione del      | PA, e dalle           | PA, e dalle           |
+| digitale in alcune    | interazioni, da       | interazioni, da       |
+| PA, e dalle           | dipendente di una PA, | dipendente di una PA, |
+| interazioni, da       | co3                   | co4                   |
+| dipendente di una PA, |                       |                       |
+| con altri soggetti    |                       |                       |
+| che a vario titolo    |                       |                       |
+| lavorano nella e per  |                       |                       |
+| la PA.                |                       |                       |
++-----------------------+-----------------------+-----------------------+
 
 
 .. sidebar:: Sidebar Title
