@@ -10,7 +10,7 @@ Cap. 4 | Assicurare la “interoperabilità” degli applicativi e delle relativ
 
 |
 
-`**Interoperabilità** (CAD articolo 1 comma dd) <http://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione1_art1.html#>`_: *caratteristica di un sistema informativo, le cui interfacce sono pubbliche e aperte, di interagire in maniera automatica con altri sistemi informativi per lo scambio di informazioni e l’erogazione di servizi*. 
+`Interoperabilità (CAD articolo 1 comma dd) <http://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione1_art1.html#>`_: *caratteristica di un sistema informativo, le cui interfacce sono pubbliche e aperte, di interagire in maniera automatica con altri sistemi informativi per lo scambio di informazioni e l’erogazione di servizi*. 
 
 Questa è la grande sfida, e soprattutto nelle grandi PA è un lavoro più complesso proprio per l’interrelazione che esiste tra più processi amministrativi gestiti da più uffici con più applicativi. Diventa, così, una necessità di tutti gli uffici, condividere i dati contenuti nei vari database tematici.
    
