@@ -41,34 +41,34 @@ Ringraziamenti
 **************
 Sento il bisogno e desiderio di ringraziare in particolare alcune persone che hanno contribuito ad accrescere la mia consapevolezza e le  competenze sul digitale negli ultimi anni. 
 
-- Gabriele Marchese (il mio attuale capo, un dirigente con l'analisi dei processi nel dna), Vincenza Simonte (mi aiuta ad analizzare),  Sergio Schimicci (i processi di lavoro sulle persone),  Giovan Battista Vitrano (con tutto ciò che è informazione e dato geografico), tutti del Comune di Palermo
+- Gabriele Marchese (il mio attuale capo, un dirigente con l'analisi dei processi nel dna), Vincenza Simonte (mi aiuta ad analizzare),  Sergio Schimicci (i processi di lavoro sulle persone),  Giovan Battista Vitrano (con tutto ciò che è informazione e dato geografico), tutti del Comune di Palermo.
 
-- Andrea Borruso (impossibile elencare tutti gli argomenti e campi in cui aiuta con passione le persone sull'universo delle competenze digitali sui dati)
+- Andrea Borruso (impossibile elencare tutti gli argomenti e campi in cui aiuta con passione le persone sull'universo delle competenze digitali sui dati).
 
-- Davide Taibi del CNR di Palermo (sempre con proposte e idee su ontologie, semantica, vocabolari controllati)
+- Davide Taibi del CNR di Palermo (sempre con proposte e idee su ontologie, semantica, vocabolari controllati).
 
-- Piersoft Paolicelli (nelle PA italiane per costruire portali open data dcat_ap_it compliant e diffondere con passione a dipendenti e dirigenti la cultura della pubblicazione e riuso dei dati)
+- Piersoft Paolicelli (nelle PA italiane per costruire portali open data dcat_ap_it compliant e diffondere con passione a dipendenti e dirigenti la cultura della pubblicazione e riuso dei dati).
 
-- Giorgia Lodi dell'Agenzia per l'Italia Digitale (per gli stimoli e le interazioni finalizzate all'harvesting del catalogo dei dataset in formato aperto del comune di Palermo sul portale nazionale dati.gov.it, in tandem con Davide Taibi)
+- Giorgia Lodi dell'Agenzia per l'Italia Digitale (per gli stimoli e le interazioni finalizzate all'harvesting del catalogo dei dataset in formato aperto del comune di Palermo sul portale nazionale dati.gov.it, in tandem con Davide Taibi).
 
-- Francesca Gleria della Provincia di Trento (per vocabolari controllati, semantica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come `OpenAgenda <https://medium.com/@cirospat/eventi-culturali-del-territorio-raccolti-e-comunicati-in-piattaforma-crowdsourcing-con-opendata-975b6c2766e6>`_), tutti del Trentino
+- Francesca Gleria della Provincia di Trento (per vocabolari controllati, semantica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come `OpenAgenda <https://medium.com/@cirospat/eventi-culturali-del-territorio-raccolti-e-comunicati-in-piattaforma-crowdsourcing-con-opendata-975b6c2766e6>`_), tutti del Trentino.
 
-- Morena Ragone della Regione Puglia (confrontarsi sulle strategie di miglioramento dei processi nella "transizione al digitale" è molto  importante)
+- Morena Ragone della Regione Puglia (confrontarsi sulle strategie di miglioramento dei processi nella "transizione al digitale" è molto  importante).
 
-- Salvatore Marras, Laura Manconi, Gianfranco Andriola, Gianluca Affinito, Sergio Agostinelli, tutti del `FormezPA <http://eventipa.formez.it/>`_ (con i loro costanti validi webinar sul mondo dei dati, delle competenze digitali a 360°, stanno formando migliaia di dipendenti con una metodologia nuova e piacevole)
+- Salvatore Marras, Laura Manconi, Gianfranco Andriola, Gianluca Affinito, Sergio Agostinelli, tutti del `FormezPA <http://eventipa.formez.it/>`_ (con i loro costanti validi webinar sul mondo dei dati, delle competenze digitali a 360°, stanno formando migliaia di dipendenti con una metodologia nuova e piacevole).
 
-- le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici, del design
+- le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici, del design.
 
-- Matteo Troia per gli stimoli inviati e ricevuti utili a creare il report su Read The Docs della "Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" 
+- Matteo Troia per gli stimoli inviati e ricevuti utili a creare il report su Read The Docs della "Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane". 
 
-- tante persone per me molto importanti con le quali ho condiviso conoscenza e dalle quali ho acquisito cultura digitale in diverse occasioni online e in presenza: Giovanni Pirrotta, Nino Galante, Giuseppe Ragusa, Totò Fiandaca, Fabio Disconzi, Daniele Mondello, Marco Lombardo, Matteo Tempestini, Andrea Nelson Mauro, Flavia Marzano, Ernesto Belisario, Simone Aliprandi, Daniele Crespi, Maurizio Napolitano, Matteo Brunati .... e altri/e che sicuramente dimentico in questo momento mentre scrivo e me ne scuso
+- tante persone per me molto importanti con le quali ho condiviso conoscenza e dalle quali ho acquisito cultura digitale in diverse occasioni online e in presenza: Giovanni Pirrotta, Nino Galante, Giuseppe Ragusa, Totò Fiandaca, Fabio Disconzi, Daniele Mondello, Marco Lombardo, Matteo Tempestini, Andrea Nelson Mauro, Flavia Marzano, Ernesto Belisario, Simone Aliprandi, Daniele Crespi, Maurizio Napolitano, Matteo Brunati .... e altri/e che sicuramente dimentico in questo momento mentre scrivo e me ne scuso.
 
 |
 
 .. note::
    **Riuso**
 
-   Ho scritto questo report creando un progetto ad hoc su GitHub, usando il linguaggio Markdown per la visualizzazione del testo su "Read The Docs". Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della `"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" <https://relazione-commissione-digitale.readthedocs.io>`_ 
+   Ho scritto questo report creando un progetto ad hoc su GitHub, usando il linguaggio Markdown per la visualizzazione del testo su "Read The Docs". Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della `"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" <https://relazione-commissione-digitale.readthedocs.io>`_. 
 
    
 .. important::
