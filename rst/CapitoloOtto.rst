@@ -76,3 +76,6 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
    **Grazie di cuore se siete arrivati fin qui**, siete molto coraggiosi/e e spero che i popcorn vi siano bastati  :-)
    
    [...la piccola ora ha 8 mesi, sono passati 5 mesi da quando ho iniziato a scrivere nel tempo libero (**le notti**) questo report]
+   
+   
+   O forse tutto questo report che ho scritto è solo un ripasso, un remind per non dimenticare cose importanti da fare nella quotidianità, chissà.....
