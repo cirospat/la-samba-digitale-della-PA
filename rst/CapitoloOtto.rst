@@ -47,7 +47,7 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
 - Davide Taibi del CNR di Palermo (sempre con proposte e idee su ontologie, semantica, vocabolari controllati).
 
-- Piersoft Paolicelli (nelle PA italiane per costruire portali open data dcat_ap_it compliant e diffondere con passione a dipendenti e dirigenti la cultura della pubblicazione e riuso dei dati).
+- Piersoft Paolicelli (nelle PA italiane per costruire portali open data dcat_ap_it compliant, bot, e diffondere con passione a dipendenti e dirigenti la cultura della pubblicazione e riuso dei dati).
 
 - Giorgia Lodi dell'Agenzia per l'Italia Digitale (per gli stimoli e le interazioni finalizzate all'harvesting del catalogo dei dataset in formato aperto del comune di Palermo sul portale nazionale dati.gov.it, in tandem con Davide Taibi).
 
