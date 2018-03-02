@@ -31,8 +31,8 @@ integrato con  `html`
 
 |  **link** | **cosa è, e a cosa serve** |
 |  :------ | :------ |
-|  http://docutils.sourceforge.net/docs/user/rst/quickref.html | guida alla sintassi del linguaggio rST, al momento non online e ripresa nella cache qui: <br/>https://cirospat.github.io/la-samba-digitale-della-pa/rst <br/>(per capire la sintassi del linguaggio RST, reStructuredText) |
-|  http://pandoc.org/try | per convertire il linguaggio Markdown nel linguaggio RST |
+|  http://docutils.sourceforge.net/docs/user/rst/quickref.html | guida alla sintassi del linguaggio rST, al momento non online e ripresa nella cache qui: <br/>https://cirospat.github.io/la-samba-digitale-della-pa/rst <br/>(utile per capire la sintassi del linguaggio **RST**, **reStructuredText**) |
+|  http://pandoc.org/try | tool per convertire il linguaggio Markdown nel linguaggio RST |
 |  http://truben.no/table/ | editor di tabelle per più linguaggi di programmazione, usato per creare questa tabella ad esempio |
 |  http://rst.ninjs.org/ | editor di testo per linguaggio RST |
 |  http://bit.do/markdownxgspreadsheet | estensione Markdown per tabelle su Google spreadsheet (converte tabelle in linguaggio Markdown) |
