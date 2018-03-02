@@ -39,20 +39,6 @@ integrato con  `html`
 | http://docutils.sourceforge.net/docs/user/links.html#editors  | editor utile                                                                                                                                                                                  |
 
 
-
-http://docutils.sourceforge.net/docs/user/rst/quickref.html guida alla sintassi rST, al momento non online e ripresa nella cache qui: 
-https://cirospat.github.io/la-samba-digitale-della-pa/rst (per capire la sintassi del linguaggio **reStructuredText**)
-
-http://pandoc.org/try (per convertire il linguaggio **Markdown** nel linguaggio **reStructuredText**)
-
-http://truben.no/table/ editor di tabelle per più linguaggi di programmazione
-
-http://rst.ninjs.org/ editor di testo per linguaggio rST
-
-https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold estensione Markdown per tabelle su Google spreadsheet
-
-http://docutils.sourceforge.net/docs/user/links.html#editors editor utile
-
 ------
 
 
@@ -60,8 +46,9 @@ http://docutils.sourceforge.net/docs/user/links.html#editors editor utile
 
 Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il linguaggio **Markdown** per la visualizzazione del testo su «**Read The Docs**». Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della [«Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane»](https://relazione-commissione-digitale.readthedocs.io/it/latest/). Vedi progetto su [Github](https://github.com/italia/relazionecommissionedigitale-docs).
 
-Per l'integrazione dei commenti tramite il servizio di [**Diquis**](https://disqus.com/) ho riusato il progetto Read The Docs del [comune di Gioia del Colle](http://foia.readthedocs.io/en/latest/) che si trova [in questo repository](https://github.com/gioialab/foia/tree/master/source/_themes/sphinx_italia_theme).
+**Interazioni con i commenti**
 
+Per l'integrazione dei commenti tramite il servizio di [**Diquis**](https://disqus.com/) ho riusato il progetto Read The Docs del [comune di Gioia del Colle](http://foia.readthedocs.io/en/latest/) che si trova [in questo repository](https://github.com/gioialab/foia/tree/master/source/_themes/sphinx_italia_theme).
 
 **Licenza** 
 
