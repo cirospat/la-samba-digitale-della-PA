@@ -29,8 +29,9 @@ integrato con  `html`
 **Altri strumenti che mi sono stati utili**
 
 
-|  ttp://docutils.sourceforge.net/docs/user/rst/quickref.html | guida alla sintassi del linguaggio rST, al momento non online e ripresa nella cache qui: <br/>https://cirospat.github.io/la-samba-digitale-della-pa/rst <br/>(per capire la sintassi del linguaggio RST, reStructuredText) |
-|  :------ | :------ |
+|  **link** | **cosa è, e a cosa serve** |
+|  :------: | :------: |
+|  http://docutils.sourceforge.net/docs/user/rst/quickref.html | guida alla sintassi del linguaggio rST, al momento non online e ripresa nella cache qui: <br/>https://cirospat.github.io/la-samba-digitale-della-pa/rst <br/>(per capire la sintassi del linguaggio RST, reStructuredText) |
 |  http://pandoc.org/try | per convertire il linguaggio Markdown nel linguaggio RST |
 |  http://truben.no/table/ | editor di tabelle per più linguaggi di programmazione, usato per creare questa tabella ad esempio |
 |  http://rst.ninjs.org/ | editor di testo per linguaggio RST |
