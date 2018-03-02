@@ -57,19 +57,13 @@ La comunità di **Developers Italia**, mi da la possibilità di accrescere le co
 
 Marzo 2018 
 
-.. admonition:: INTERAZIONE
-   
-   **Interazione**
-   
-   alla fine di ogni pagina di questo report è possibile commentare (e quindi interagire) grazie all'integrazione con il servizio reso disponibile da `Disquis <https://disqus.com/>`_.
-   
    
 +-----------------------------------------------------------------------+
 | **Interazione**                                                       |
 +=======================================================================+
 | alla fine di ogni pagina di questo report è possibile commentare (e   |
 | quindi interagire) grazie all’integrazione con il servizio reso       |
-| disponibile da ``Disquis <https://disqus.com/>``\ \_                  |
+| disponibile da Disqus, https://disqus.com                             |
 +-----------------------------------------------------------------------+
    
 ------------
