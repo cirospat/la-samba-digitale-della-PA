@@ -55,7 +55,7 @@ La comunità di **OpendataSicilia** mi da l'opportunità di fare rete con altri 
 La comunità di **Developers Italia**, mi da la possibilità di accrescere le conoscenze e le competenze nel campo dello sviluppo dei servizi pubblici italiani.
 
 
-Febbraio 2018 
+Marzo 2018 
 
 .. admonition:: INTERAZIONE
    
