@@ -31,6 +31,16 @@ https://cirospat.github.io/la-samba-digitale-della-pa/rst (per capire meglio la 
 
 http://pandoc.org/try (per convertire il linguaggio **Markdown** nel linguaggio **reStructuredText**)
 
+http://truben.no/table/ editor di tabelle per più linguaggi di programmazione
+
+http://rst.ninjs.org/ editor di testo per linguaggio rST
+
+https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold estensione Markdown per tabelle su Google spreadsheet
+
+http://docutils.sourceforge.net/docs/user/links.html#editors editor utile
+
+------
+
 
 **Riuso**
 
