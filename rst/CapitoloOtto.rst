@@ -71,7 +71,7 @@ Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il lin
 
 **Gli strumenti che mi sono stati utili**:
 
-+ http://docutils.sourceforge.net/docs/user/rst/quickref.html	guida alla sintassi del linguaggio **RST**, al momento non online e ripresa qui: https://cirospat.github.io/la-samba-digitale-della-pa/rst utile per capire nel dettaglio la sintassi del linguaggio **RST**, **reStructuredText**;
++ http://docutils.sourceforge.net/docs/user/rst/quickref.html	guida alla sintassi del linguaggio **RST**, al momento non online e ripresa `qui <https://cirospat.github.io/la-samba-digitale-della-pa/rst>`_ utile per capire nel dettaglio la sintassi del linguaggio **RST**, **reStructuredText**;
 
 + http://pandoc.org/try	tool per convertire il linguaggio **Markdown** nel linguaggio **RST**;
 
