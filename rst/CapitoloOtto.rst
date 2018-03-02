@@ -71,19 +71,19 @@ Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il lin
 
 **Altri strumenti che mi sono stati utili**:
 
-+ http://docutils.sourceforge.net/docs/user/rst/quickref.html	guida alla sintassi del linguaggio rST, al momento non online e ripresa qui: https://cirospat.github.io/la-samba-digitale-della-pa/rst utile per capire nel dettaglio la sintassi del linguaggio **RST**, **reStructuredText**
++ http://docutils.sourceforge.net/docs/user/rst/quickref.html	guida alla sintassi del linguaggio rST, al momento non online e ripresa qui: https://cirospat.github.io/la-samba-digitale-della-pa/rst utile per capire nel dettaglio la sintassi del linguaggio **RST**, **reStructuredText**;
 
-+ http://pandoc.org/try	tool per convertire il linguaggio **Markdown** nel linguaggio **RST**
++ http://pandoc.org/try	tool per convertire il linguaggio **Markdown** nel linguaggio **RST**;
 
-+ http://truben.no/table/	editor di tabelle per più linguaggi di programmazione, per esempio con **Markdown**
++ http://truben.no/table/	editor di tabelle per più linguaggi di programmazione, per esempio con **Markdown**;
 
-+ http://rst.ninjs.org/	editor di testo per linguaggio **RST**
++ http://rst.ninjs.org/	editor di testo per linguaggio **RST**;
 
-+ http://bit.do/markdownxgspreadsheet	estensione **Markdown** per tabelle su Google spreadsheet, converte tabelle in linguaggio **Markdown**
++ http://bit.do/markdownxgspreadsheet	estensione **Markdown** per tabelle su Google spreadsheet, converte tabelle in linguaggio **Markdown**;
 
-+ http://docutils.sourceforge.net/docs/user/links.html#editors	editor utile per facilitare la scrittura in codice
++ http://docutils.sourceforge.net/docs/user/links.html#editors	editor utile per facilitare la scrittura in codice;
 
-+ https://disqus.com	servizio che consente di commentare (e quindi interagire) sulle pagine web, attraverso le API (Application Programming Interface)
++ https://disqus.com	servizio che consente di commentare (e quindi interagire) sulle pagine web, attraverso le API (Application Programming Interface).
 
    
 .. important::
