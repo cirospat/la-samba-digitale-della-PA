@@ -2,6 +2,14 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
 
 http://pandoc.org/try
 
+
+.. admonition:: INTERAZIONE
+   
+   **Interazione**
+   
+   alla fine di ogni pagina di questo report è possibile commentare (e quindi interagire) grazie all'integrazione con il servizio reso disponibile da `Disqus <https://disqus.com/>`_.
+
+
 +-----------------------+-----------------------+-----------------------+
 | TITOLO                | BALL                  | NEXT                  |
 +=======================+=======================+=======================+
