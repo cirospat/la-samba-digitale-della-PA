@@ -71,7 +71,7 @@ Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il lin
 
 Altri strumenti che mi sono stati utili:
 
-+ http://docutils.sourceforge.net/docs/user/rst/quickref.html	"guida alla sintassi del linguaggio rST, al momento non online e ripresa nella cache qui: https://cirospat.github.io/la-samba-digitale-della-pa/rst (utile per capire la sintassi del linguaggio **RST**, **reStructuredText**)"
++ http://docutils.sourceforge.net/docs/user/rst/quickref.html	guida alla sintassi del linguaggio rST, al momento non online e ripresa qui: https://cirospat.github.io/la-samba-digitale-della-pa/rst (utile per capire la sintassi del linguaggio **RST**, **reStructuredText**)
 
 + http://pandoc.org/try	tool per convertire il linguaggio **Markdown** nel linguaggio **RST**
 
@@ -84,12 +84,6 @@ Altri strumenti che mi sono stati utili:
 + http://docutils.sourceforge.net/docs/user/links.html#editors	editor utile per facilitare la scrittura codice
 
 + https://disqus.com	servizio che consente di commentare (e quindi interagire) sulle pagine web, attraverso API (Application Programming Interface)
-
-
-.. note::
-   **Riuso**
-
-   Ho scritto questo report creando un progetto ad hoc su GitHub, usando il linguaggio Markdown per la visualizzazione del testo su "Read The Docs". Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della `"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" <https://relazione-commissione-digitale.readthedocs.io>`_. 
 
    
 .. important::
