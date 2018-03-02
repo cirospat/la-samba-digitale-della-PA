@@ -75,7 +75,7 @@ Altri strumenti che mi sono stati utili:
 
 + http://pandoc.org/try	tool per convertire il linguaggio **Markdown** nel linguaggio **RST**
 
-+ http://truben.no/table/	editor di tabelle per più linguaggi di programmazione, usato per creare questa tabella su **Markdown**, ad esempio
++ http://truben.no/table/	editor di tabelle per più linguaggi di programmazione, per esempio con **Markdown**
 
 + http://rst.ninjs.org/	editor di testo per linguaggio **RST**
 
