@@ -57,8 +57,7 @@ La comunità di **Developers Italia**, mi da la possibilità di accrescere le co
 
 Febbraio 2018 
 
-.. admonition:: SI DOVREBBE
-
+.. admonition::
    Alla fine di ogni pagina di questo report è possibile commentare (e quindi interagire) grazie all'integrazione con il servizio reso disponibile da `Disquis <https://disqus.com/>`_.
    
 ------------
