@@ -3,6 +3,15 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
 http://pandoc.org/try
 
 
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
+
 .. admonition:: INTERAZIONE
    
    **Interazione**
