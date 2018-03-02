@@ -20,9 +20,9 @@ Riflessioni, appunti e input di Ciro Spataro.
 
 **Build**
 
-Costruito su [`rst/`](./rst)
+Costruito con il linguaggio reStructuredText (RST) [`rst/`](./rst)
 
-integrato con  `html`
+ed integrato con il linguaggio  `html`
 
 ------
 
