@@ -63,6 +63,15 @@ Marzo 2018
    
    alla fine di ogni pagina di questo report è possibile commentare (e quindi interagire) grazie all'integrazione con il servizio reso disponibile da `Disquis <https://disqus.com/>`_.
    
+   
++-----------------------------------------------------------------------+
+| **Interazione**                                                       |
++=======================================================================+
+| alla fine di ogni pagina di questo report è possibile commentare (e   |
+| quindi interagire) grazie all’integrazione con il servizio reso       |
+| disponibile da ``Disquis <https://disqus.com/>``\ \_                  |
++-----------------------------------------------------------------------+
+   
 ------------
 
 
