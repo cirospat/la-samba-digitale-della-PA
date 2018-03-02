@@ -27,7 +27,8 @@ integrato con  `html`
 
 **Altri strumenti che mi sono stati utili**
 
-https://cirospat.github.io/la-samba-digitale-della-pa/rst (per capire meglio la sintassi del linguaggio **reStructuredText**)
+http://docutils.sourceforge.net/docs/user/rst/quickref.html guida alla sintassi rST, al momento non online e ripresa nella cache qui: 
+https://cirospat.github.io/la-samba-digitale-della-pa/rst (per capire la sintassi del linguaggio **reStructuredText**)
 
 http://pandoc.org/try (per convertire il linguaggio **Markdown** nel linguaggio **reStructuredText**)
 
