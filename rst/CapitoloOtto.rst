@@ -65,6 +65,53 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
 |
 
+Riuso di strumenti per creare questo report
+*******************************************
+Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il linguaggio **RST** (reStructuredText) e integrato con linguaggio **HTML** per la visualizzazione del testo su **"Read The Docs"**. Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della `"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" <https://relazione-commissione-digitale.readthedocs.io>`_.
+
+Altri strumenti che mi sono stati utili
+
++-----------------------------------+-----------------------------------+
+| **link**                          | **cosa è questo servizio, a cosa  |
+|                                   | serve**                           |
++===================================+===================================+
+| http://docutils.sourceforge.net/d | guida alla sintassi del           |
+| ocs/user/rst/quickref.html        | linguaggio rST, al momento non    |
+|                                   | online e ripresa nella cache qui: |
+|                                   | https://cirospat.github.io/la-sam |
+|                                   | ba-digitale-della-pa/rst          |
+|                                   | (utile per capire la sintassi del |
+|                                   | linguaggio **RST**,               |
+|                                   | **reStructuredText**)             |
++-----------------------------------+-----------------------------------+
+| http://pandoc.org/try             | tool per convertire il linguaggio |
+|                                   | **Markdown** nel linguaggio       |
+|                                   | **RST**                           |
++-----------------------------------+-----------------------------------+
+| http://truben.no/table/           | editor di tabelle per più         |
+|                                   | linguaggi di programmazione,      |
+|                                   | usato per creare questa tabella   |
+|                                   | su **Markdown**, ad esempio       |
++-----------------------------------+-----------------------------------+
+| http://rst.ninjs.org/             | editor di testo per linguaggio    |
+|                                   | **RST**                           |
++-----------------------------------+-----------------------------------+
+| http://bit.do/markdownxgspreadshe | estensione **Markdown** per       |
+| et                                | tabelle su Google spreadsheet     |
+|                                   | (converte tabelle in linguaggio   |
+|                                   | **Markdown**)                     |
++-----------------------------------+-----------------------------------+
+| http://docutils.sourceforge.net/d | editor utile per facilitare la    |
+| ocs/user/links.html#editors       | scrittura codice                  |
++-----------------------------------+-----------------------------------+
+| https://disqus.com                | servizio che consente di          |
+|                                   | commentare (e quindi interagire)  |
+|                                   | sulle pagine web, attraverso API  |
+|                                   | (Application Programming          |
+|                                   | Interface)                        |
++-----------------------------------+-----------------------------------+
+
+
 .. note::
    **Riuso**
 
