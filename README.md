@@ -27,9 +27,9 @@ integrato con  `html`
 
 **Altri strumenti che mi sono stati utili**
 
-http://docutils.sourceforge.net/docs/ref/rst/directives.html (per capire meglio la sintassi del linguaggio reStructuredText)
+https://cirospat.github.io/la-samba-digitale-della-pa/rst (per capire meglio la sintassi del linguaggio **reStructuredText**)
 
-http://pandoc.org/try (per convertire il linguaggio Markdown nel linguaggio reStructuredText)
+http://pandoc.org/try (per convertire il linguaggio **Markdown** nel linguaggio **reStructuredText**)
 
 
 **Riuso**
