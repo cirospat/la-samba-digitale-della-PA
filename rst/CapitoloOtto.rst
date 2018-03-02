@@ -69,7 +69,7 @@ Riuso di strumenti per creare questo report
 *******************************************
 Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il linguaggio **RST** (reStructuredText) e integrato con linguaggio **HTML** per la visualizzazione del testo su **"Read The Docs"**. Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della `"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" <https://relazione-commissione-digitale.readthedocs.io>`_.
 
-Altri strumenti che mi sono stati utili:
+**Altri strumenti che mi sono stati utili**:
 
 + http://docutils.sourceforge.net/docs/user/rst/quickref.html	guida alla sintassi del linguaggio rST, al momento non online e ripresa qui: https://cirospat.github.io/la-samba-digitale-della-pa/rst utile per capire nel dettaglio la sintassi del linguaggio **RST**, **reStructuredText**
 
