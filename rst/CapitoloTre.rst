@@ -175,25 +175,22 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
    **Pillole curative**
    
    **L'analisi dei processi come obiettivi nel Piano della Performance delle PA.**
-   Per attuare i contenuti del Codice dell'Amministrazione Digitale pienamente, e quindi attuare il passaggio alla modalità digitale
-   totale della PA, è inevitabile inserire l'attività di "analisi dei singoli processi amministrativi" nel Piano della Performance.
-   Non è una novità, lo prevede il CAD, e il Report della Commissione parlamentare di inchiesta sul livello di digitalizzazione della PA
-   lo mette in risalto come criticità della mancata applicazione.
-   Nella PA tutto funziona (cioè c'è efficienza) se un attività è strettamente legata alla corresponsione di uno stipendio. Un anno di 
-   questo obiettivo potrebbe produrre abbondanti analisi dei processi per passare alla successiva fase di reingegnerizzazione degli
-   stessi processi, e necessaria all'adozione di applicativi gestionali per il passaggio alla modalità digitale.
-   La PA che inserirà i contenuti del CAD dentro il Piano della Performance già a partire dal 2018, non solo starà rispettando una norma
-   importante di settore, ma, cosa più importante e utile, avrà maggiori possibilità di realizzare concretamente nel breve-medio periodo
-   un cambiamento in termini di transizione alla modalità digitale sia per la gestione dei processi interni che per l'erogazione di
-   servizi pubblici. Sarebbe interessante monitorare questa azione delle PA a livello nazionale e spero che la Commissione parlamentare
-   di inchiesta sul livello di digitalizzazione della PA insieme ad AGID lo faccia, per il bene dell'intera PA italiana.
+   Per attuare i contenuti del Codice dell'Amministrazione Digitale pienamente, e quindi attuare il passaggio alla modalità digitale    totale della PA, è consigliabile (se non inevitabile) inserire l'attività di "analisi dei singoli processi amministrativi" nel Piano della Performance.
+Non è una novità, lo prevede il `CAD all'art.12 <http://cad.readthedocs.io/it/v2017-12-13/_rst/capo1_sezione3_art12.html?highlight=performance>`_(*..... e le amministrazioni pubbliche nella redazione del piano di performance di cui all’articolo 10 del decreto legislativo 27 ottobre 2009, n. 150, dettano disposizioni per l’attuazione delle disposizioni del presente Codice.*
+Anche il Report della Commissione parlamentare di inchiesta sul livello di digitalizzazione della PA lo mette in risalto come criticità della mancata applicazione (la mancata inclusione dei contenuti del CAD nel Piano di Performance).
+Nella PA tutto funziona (cioè c'è efficienza) se un attività è strettamente legata direttamente alla corresponsione di uno stipendio. Un anno di questo obiettivo potrebbe produrre abbondanti analisi dei processi per passare alla successiva fase di reingegnerizzazione degli stessi processi, e necessaria all'adozione di applicativi gestionali per il passaggio alla modalità digitale. 
+La PA che inserirà i contenuti del CAD dentro il Piano della Performance già a partire dal 2018, non solo starà rispettando una norma   importante di settore, ma, cosa più importante e utile, avrà maggiori possibilità di realizzare concretamente nel breve-medio periodo    un cambiamento in termini di transizione alla modalità digitale sia per la gestione dei processi interni che per l'erogazione di    servizi pubblici alla collettività. Sarebbe interessante monitorare questa azione delle PA a livello nazionale e spero che la Commissione parlamentare di inchiesta sul livello di digitalizzazione della PA insieme ad AGID lo faccia, per il bene dell'intera PA italiana.
+
 |
+
 **Un semplice schema per la strutturazione degli obiettivi nel Piano Performance delle PA utile ad attuare i contenuti del CAD**
 
 .. figure:: imgrel/pianoperformance.png
    :alt: cad nel piano performance
    :align: center
+   
 |   
+
 **Bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
 
 .. figure:: imgrel/tuttoonline.png
