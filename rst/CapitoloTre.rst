@@ -15,12 +15,12 @@ L’analisi dei processi è la prima attività da svolgere prima di pensare di a
 
 l’azione della Pubblica Amministrazione si attua con la costruzione, gestione e perfezionamento (pubblicazione/invio) dell’atto amministrativo. L’atto amministrativo si concretizza con un documento quale: la deliberazione, il decreto, la determinazione dirigenziale/sindacale, l’ordinanza, il nulla osta, la certificazione, la licenza, ecc., cioè quell’atto che ha efficacia sul territorio verso i soggetti cui è diretto.
   
-**Per gestire interamente il ciclo di vita dell’atto amministrativo è necessario costruire il processo, cioè descrivere e rappresentare chiaramente l’elenco delle cose da fare dall'inizio alla fine, e l’elenco degli uffici che devono trattare una parte dell’atto.**
+**Per gestire interamente il ciclo di vita dell’atto amministrativo è necessario costruire il processo, cioè descrivere e rappresentare chiaramente l’elenco delle cose da fare dall'inizio alla fine, e l’elenco degli uffici che devono trattare, per competenza, una parte dell’atto.**
 
 |
 
 3.2 Esempio, se bisogna produrre, come atto amministrativo, una Deliberazione di Giunta Comunale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 il processo più o meno classico necessario da gestire in molti comuni (le azioni da compiere) è il seguente:
 
 - il dirigente dispone (nota/email) al funzionario collaboratore di redigere (scrivere, editare) una relazione che motivi la necessità di adottare una deliberazione di Giunta
@@ -41,20 +41,17 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    **Pillole curative**
    
    **Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
-   La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato    che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
-   formato di visualizzazione o di download. 
-   La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa
-   amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
-   gestionale.
    
-   **Uso di Read The Docs come formato di pubblicazione di documenti di testo**
+   La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero  essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il    formato di visualizzazione o di download. La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software gestionale.
+   
+   **Uso di Read The Docs come formato di pubblicazione di documenti di testo.**
    
    Atti importanti come Regolamenti, Direttive, Circolari, Convenzioni, Protocolli di Intesa, ecc. quando risultano di consistente lunghezza e articolazione, potrebbero essere pubblicati sulla piattaforma Read The Docs (la piattaforma in cui è stato pubblicato questo report) con il vantaggio di rendere il testo facilmente consultabile attraveso la funzione di ricerca dei termini. Read The Docs comunque permette anche la generazione del formato PDF in qualsiasi momento, quindi assolve ad una duplice funzione. Questo è un consiglio che mi sento di dare a tutte le PA. D'altronde è la piattaforma usata dal Team Tasformazione dell'AGID per la pubblicazione dei più importanti documenti della PA https://docs.developers.italia.it/. 
 
 |
 
 3.3 La Firma (digitale / a penna)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/firma_digitale.png
    :alt: firma digitale analogica
@@ -62,7 +59,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    
    la firma (e la penna), fondamenta della PA ancora oggi (immagine lic CCO pubblico dominio)
 
-Nella gestione del processo amministrativo abbiamo visto la costruzione della relazione della deliberazione grazie a: software per l’editing, carta, stampante per stampare la relazione e i suoi modelli, scanner per scansionare carta stampata e quindi firmata a penna, software per pubblicare online sia file digitali nativi (quindi in formato aperto) che carta scansionata (pdf immagine, cioè un formato chiuso).
+Nella gestione del processo amministrativo abbiamo visto la costruzione della relazione della deliberazione grazie a: software per l’editing, carta, stampante per stampare la relazione e i suoi modelli, scanner per scansionare carta stampata e quindi firmata a penna, software per pubblicare online sia file digitali nativi (quindi in formato aperto) che carta scansionata (PDF formato immagine, cioè un formato chiuso).
 
 Partendo dal punto fermo che **il Protocollo Informatico nella PA è il più importante pilastro della catalogazione dei miliardi di documenti amministrativi**, può capitare, in alcune PA, che l’applicativo gestionale del protocollo sia sganciato dall’editor di testo che serve a editare i contenuti di un atto (file). Capita che i contenuti di un atto (cioè il documento informatico) vengono stampati su carta, firmati a penna e scansionati per ridiventare formato digitale (questa volta file, digitale si, ma non riusabile nè ricercabile come testo al suo interno).
 
