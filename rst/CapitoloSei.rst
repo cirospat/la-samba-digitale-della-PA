@@ -11,6 +11,8 @@ Cap. 6 | Costruire software gestionali e piattaforme digitali nella PA
 
 fondamentali del function point (`video dal minuto 00:45 <https://www.youtube.com/watch?v=N2-9GC7__P8?t=44>`_)
 
+La PA italiana, da decenni, è stata caratterizzata dall'utilizzo della metodologia del **"function point"** nella fase di costruzione del software gestionale.
+
 Il **Function point** è un “metodo di progettazione del software, definito nell'Azienda IBM da Allan Albrecht tra il 1975 ed il 1980”. Gli elementi di conteggio nella metodologia del “function point” sono:
 
 - internal logical file (ILF), i file interni dell'applicazione;
