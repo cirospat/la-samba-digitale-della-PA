@@ -44,7 +44,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    
    La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero  essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il    formato di visualizzazione o di download. La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software gestionale.
    
-   **Uso di Read The Docs come formato di pubblicazione di documenti di testo.**
+   **Uso di "Read The Docs" per la pubblicazione di documenti di testo.**
    
    Atti importanti come Regolamenti, Direttive, Circolari, Convenzioni, Protocolli di Intesa, ecc. quando risultano di consistente lunghezza e articolazione, potrebbero essere pubblicati sulla piattaforma Read The Docs (la piattaforma in cui è stato pubblicato questo report) con il vantaggio di rendere il testo facilmente consultabile attraveso la funzione di ricerca dei termini. Read The Docs comunque permette anche la generazione del formato PDF in qualsiasi momento, quindi assolve ad una duplice funzione. Questo è un consiglio che mi sento di dare a tutte le PA. D'altronde è la piattaforma usata dal Team Tasformazione dell'AGID per la pubblicazione dei più importanti documenti della PA https://docs.developers.italia.it/. 
 
@@ -61,7 +61,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 
 Nella gestione del processo amministrativo abbiamo visto la costruzione della relazione della deliberazione grazie a: software per l’editing, carta, stampante per stampare la relazione e i suoi modelli, scanner per scansionare carta stampata e quindi firmata a penna, software per pubblicare online sia file digitali nativi (quindi in formato aperto) che carta scansionata (PDF formato immagine, cioè un formato chiuso).
 
-Partendo dal punto fermo che **il Protocollo Informatico nella PA è il più importante pilastro della catalogazione dei miliardi di documenti amministrativi**, può capitare, in alcune PA, che l’applicativo gestionale del protocollo sia sganciato dall’editor di testo che serve a editare i contenuti di un atto (file). Capita che i contenuti di un atto (cioè il documento informatico) vengono stampati su carta, firmati a penna e scansionati per ridiventare formato digitale (questa volta file, digitale si, ma non riusabile nè ricercabile come testo al suo interno).
+Partendo dal punto fermo che **il Protocollo Informatico nella PA è il più importante pilastro della catalogazione dei miliardi di documenti amministrativi**, può capitare, in alcune PA, che l’applicativo gestionale del protocollo sia sganciato dall’editor di testo che serve a editare i contenuti di un atto amministrativo (file). Capita che i contenuti di un atto (cioè il documento informatico) vengono stampati su carta, firmati a penna e scansionati per ridiventare formato digitale (questa volta file, digitale si, ma non riusabile nè ricercabile come testo al suo interno).
 
 .. WARNING::
    **Quando il formato digitale nativo di un documento, nel 2018, diventa carta durante il ciclo di vita dell’atto amministrativo, siamo nella direzione più sbagliata per l’innovazione di processo e di servizio.**
@@ -75,7 +75,8 @@ Questa è una delle tante analisi rapide che si possono fare del processo di ges
 3.4 Processi correlati tra loro
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Capita anche che i processi non sono singoli, autonomi e separati gli uni da altri, ma alcuni processi sono in relazione ad altri processi gestiti da diversi uffici (si “incrociano”), e qui le cose si complicano. Entriamo nel territorio della **“interoperabilità”.**
+Capita anche che i processi non sono singoli, autonomi e separati gli uni da altri, ma alcuni processi sono in relazione ad altri processi gestiti da diversi uffici (si “incrociano”), e qui le cose si complicano. 
+Entriamo nel territorio della **“interoperabilità”.**
 
 **Un esempio**: 
 un ufficio per gestire un processo amministrativo propedeutico a rilasciare autorizzazioni per l’esercizio di attività commerciali, ha necessità, per legge, di accedere alle banche dati dell’ufficio anagrafe, o dei tributi per conoscere lo status del richiedente (residenza, anagrafe, status tributario). In questo caso abbiamo in gioco due o più database (quello dell’ufficio richiedente, quello dei tributi, e quello dell’ufficio anagrafe) che hanno necessità di dialogare tra loro, così da essere interrogati autonomamente da un ufficio o da un altro: quando questo dialogo esiste c’è l’interoperabilità delle banche dati e la vita si semplifica molto ai dipendenti/dirigenti della PA, e ad avvantaggiarsene è anche il cittadino e l’azienda che vedono ridotti i tempi di gestione nel rilascio del servizio richiesto.
@@ -87,17 +88,9 @@ Quando capita che il dialogo di dati non esiste tra i diversi database dello ste
    **Pillole curative**
    
    **Permettere agli applicativi l'accesso ai vari database in uso, e quindi assicurare l'accesso ai dipendenti e dirigenti**.
-   La "richiesta" di dati da un ufficio ad un altro rappresenta, oggi, una cattiva prassi della PA. E si ripeterà ancora, purtroppo,
-   fino a quando il cittadino/azienda non entrerà nei portali online della PA con le proprie credenziali di identità 
-   digitale (SPID) per fruire dei vari servizi pubblici che lo riguardano a 360°. 
+   La "richiesta" formale di dati da un ufficio ad un altro rappresenta, oggi, una cattiva prassi della PA, sotto il punto di vista della gestione in modalità digitale. E si ripeterà ancora, purtroppo, fino a quando il cittadino/azienda non entrerà nei portali online della PA con le proprie credenziali di identità digitale (SPID) per fruire dei vari servizi pubblici che lo riguardano a 360°. 
    
-   La situazione ideale è rappresentata dall'identità digitale del cittadino/azienda agganciata a tutti i database di quegli uffici 
-   pubblici che detengono dati che lo riguardano (anagrafe, stato civile, tributi, polizia municipale, istruzione scolastica, status
-   edilizio dell’abitazione, status di affittuario di immobili comunali, attività produttive, ecc). 
-   Per assicurare ciò è inevitabile l'interoperabilità delle banche dati degli uffici pubblici che detengono dati a vario titolo sul
-   cittadino/azienda. Un database tematico di una PA locale deve poter richiamare tutti i dati degli altri database esistenti in quella
-   specifica PA - attraverso l'uso di una corretta metadatazione - e dialogare anche con i più rilevanti database di altre PA nazionali
-   e regionali, per lo svolgimento dei rispettivi compiti istituzionali. 
+   La situazione ideale è rappresentata dall'**identità digitale** del cittadino/azienda agganciata a tutti i database di quegli uffici  pubblici che detengono dati che lo riguardano (anagrafe, stato civile, tributi, polizia municipale, istruzione scolastica, status    edilizio dell’abitazione, status di affittuario di immobili comunali, attività produttive, ecc). Per assicurare ciò è inevitabile l'interoperabilità delle banche dati degli uffici pubblici che detengono dati a vario titolo sul cittadino/azienda. Un database tematico di una PA locale deve poter richiamare tutti i dati degli altri database esistenti in quella specifica PA - attraverso l'uso di una corretta metadatazione - e dialogare anche con i più rilevanti database di altre PA nazionali e regionali, per lo svolgimento dei rispettivi compiti istituzionali. 
    
 |   
    
