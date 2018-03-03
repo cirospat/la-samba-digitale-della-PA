@@ -90,14 +90,14 @@ Sul “**function point**” così relaziona, a fine ottobre 2017, la **Commissi
 
 |
 
-6.5 I “micro servizi” nella progettazione del software per la PA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+6.5 I “micro servizi” nella progettazione del software gestionale per la PA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Probabilmente le software house chiamate a costruire piattaforme digitali nella PA dovrebbero/potrebbero spostare una dose di attenzione e risorse dal metodo del “function point” ad altri aspetti della progettazione:
 
 - il co-design del servizio digitale da realizzare, con attenzione agli aspetti di facile usabilità sia dal lato utente cittadino che dal lato dipendente pubblico, e agli aspetti di facile implementazione della piattaforma, prevedendo un approccio progettuale per micro-servizi (tanti piccoli servizi che svolgono funzioni specifiche e interoperabili tra loro anziché una sola mega piattaforma complessa);
 
-- le buone prassi delle altre amministrazioni pubbliche che hanno realizzato piattaforme digitali oggi usate quotidianamente, e per questo fare riferimento al cosiddetto “**riuso applicativo**”, uno spazio online dove molte PA hanno censito il software progettato, utilizzato e messo a disposizione gratuitamente di altre Amministrazioni.
+- le buone prassi delle altre amministrazioni pubbliche che hanno realizzato piattaforme digitali oggi usate quotidianamente, e per questo fare riferimento al cosiddetto `**riuso applicativo** <http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/riuso-software>`_, uno spazio online dove molte PA hanno censito il software progettato, utilizzato e messo a disposizione gratuitamente di altre Amministrazioni.
 
 .. figure:: imgrel/microservizi.png
    :alt: micro servizi
