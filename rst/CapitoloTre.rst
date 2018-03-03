@@ -192,10 +192,14 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
    :align: center
    
 
-| Articolo  | Comma |  Prescrizione | Azione | Obiettivo da     | Azione da svolgere | Obiettivo | Figure necessarie |
-| CAD       | CAD   |  CAD          | svolta | raggiungere per  | per raggiungere    | temporale | per realizzazione |
-|           |       |               |        | prescrizione CAD | obiettivo          |           | dell'azione       |
-
+| Articolo CAD |
+| Comma CAD |  
+| Prescrizione CAD |     
+| Azione svolta |          
+| Obiettivo da raggiungere per prescrizione CAD |
+| Azione da svolgere per raggiungere obiettivo |      
+| Obiettivo  temporale |       
+| Figure necesaria alla realizzazione dell'azione |
 
 |   
 
