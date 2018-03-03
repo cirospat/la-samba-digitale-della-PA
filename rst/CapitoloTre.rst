@@ -191,6 +191,23 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
    :alt: cad nel piano performance
    :align: center
    
++--------+--------+--------+--------+--------+--------+--------+--------+
+| **Arti | **Comm | **Pres | **Azio | **Obie | **Azio | **Obie | **Figu |
+| colo   | a      | crizio | ne     | ttivo  | ne     | ttivo  | re     |
+| CAD**  | CAD**  | ne     | svolta | da     | da     | tempor | necess |
+|        |        | CAD**  | **     | raggiu | svolge | ale**  | arie   |
+|        |        |        |        | ngere  | re     |        | alla   |
+|        |        |        |        | per    | per    |        | realiz |
+|        |        |        |        | attuar | raggiu |        | zazion |
+|        |        |        |        | e      | ngere  |        | e      |
+|        |        |        |        | la     | l’obie |        | dell’a |
+|        |        |        |        | prescr | ttivo* |        | zione* |
+|        |        |        |        | izione | *      |        | *      |
+|        |        |        |        | del    |        |        |        |
+|        |        |        |        | CAD**  |        |        |        |
++========+========+========+========+========+========+========+========+
++--------+--------+--------+--------+--------+--------+--------+--------+
+
 |   
 
 **Bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
