@@ -192,14 +192,14 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
    :align: center
    
 
-|| Articolo CAD 
-| Comma CAD 
-| Prescrizione CAD 
-| Azione svolta 
-| Obiettivo da raggiungere per attuare la prescrizione CAD 
-| Azione da svolgere per raggiungere l'obiettivo 
-| Obiettivo  temporale 
-| Figure responsabili (dirigenti) necesaria alla realizzazione dell'azione 
+| Articolo CAD: 
+| Comma CAD: 
+| Prescrizione CAD: 
+| Azione svolta: 
+| Obiettivo da raggiungere per attuare la prescrizione CAD: 
+| Azione da svolgere per raggiungere l'obiettivo: 
+| Obiettivo  temporale: 
+| Figure responsabili (dirigenti) necesaria alla realizzazione dell'azione: 
 
 |   
 
