@@ -193,7 +193,9 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
    
 +-----------+-------+---------------+--------+--------+---------+--------------------+-----------+-------------------+
 | Articolo  | Comma |  Prescrizione | Azione | Obiettivo da     | Azione da svolgere | Obiettivo | Figure necessarie |
-| CAD       | CAD   |  CAD          | Svolta | raggiungere per  | per raggiungere    | temporale | per realizzazione |
+|           |       |               |        |                  |                    |           |                   |
+| CAD       | CAD   |  CAD          | svolta | raggiungere per  | per raggiungere    | temporale | per realizzazione |
+|           |       |               |        |                  |                    |           |                   |
 |           |       |               |        | prescrizione CAD | obiettivo          |           | dell'azione       |
 |           |       |               |        |                  |                    |           |                   |
 +===========+=======+===============+========+==================+====================+===========+===================+
