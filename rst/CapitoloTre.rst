@@ -46,6 +46,9 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa
    amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
    gestionale.
+   
+   **Uso di Read The Docs come formato di pubblicazione di testo**
+   Atti importanti come Regolamenti, Direttive, Circolari, Convenzioni, Protocolli di Intesa, ecc. quando risultano di consistente lunghezza e articolazione, potrebbero essere pubblicati sulla piattaforma Read The Docs (la piattaforma in cui è stato pubblicato questo report) con il vantaggio di rendere il testo facilmente consultabile attraveso la funzione di ricerca dei termini. Read The Docs comunque permette anche la generazione del formato PDF in qualsiasi momento, quindi assolve ad una duplice funzione. Questo è un consiglio che mi sento di dare a tutte le PA. D'altronde è la piattaforma usata dal Team Tasformazione dell'AGID per la pubblicazione dei più importanti documenti della PA https://docs.developers.italia.it/. 
 
 |
 
