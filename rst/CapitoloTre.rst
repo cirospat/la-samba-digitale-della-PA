@@ -184,18 +184,11 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
    
    Nella PA tutto funziona (cioè c'è efficienza) se un attività è strettamente legata direttamente alla corresponsione di uno stipendio. Un anno di questo obiettivo (contenuti del CAD nel Piano di Performance) potrebbe produrre abbondanti analisi dei processi per passare alla successiva fase di reingegnerizzazione degli stessi processi, e necessaria all'adozione di applicativi gestionali per il passaggio alla modalità digitale. La PA che inserirà i contenuti del CAD dentro il Piano della Performance già a partire dal 2018, non solo starà rispettando una norma importante di settore, ma, cosa più importante e utile, avrà maggiori possibilità di realizzare concretamente nel breve-medio periodo un cambiamento in termini di transizione alla modalità digitale sia per la gestione dei processi interni che per l'erogazione di servizi pubblici digitali alla collettività. Sarebbe interessante monitorare questa azione delle PA a livello nazionale ed auspicabile che la Commissione parlamentare di inchiesta sul livello di digitalizzazione della PA insieme ad AGID lo faccia, per il bene dell'intera PA italiana.
 
-|
+| 
 
-**Un semplice schema per la strutturazione degli obiettivi nel Piano Performance delle PA utile ad attuare i contenuti del CAD**
-
-.. figure:: imgrel/pianoperformance.png
-   :alt: cad nel piano performance
-   :align: center
-   
-
-+---------------------------------------------------------------------------+
-| **Schema di Piano della Performance che include le prescrizioni del CAD** |
-+---------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------+
+| **Un semplice schema per la strutturazione degli obiettivi nel Piano Performance delle PA utile ad attuare i contenuti del CAD** |
++----------------------------------------------------------------------------------------------------------------------------------+
 
 Articolo CAD
    indicazione del numero dell'articolo del CAD
