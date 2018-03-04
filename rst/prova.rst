@@ -2,6 +2,9 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
 
 http://pandoc.org/try
 
++---------------------------------------------------------------------------+
+| **Schema di Piano della Performance che include le prescrizioni del CAD** |
++---------------------------------------------------------------------------+
 
 **Schema di Piano della Performance che include le prescrizioni del CAD**
 
