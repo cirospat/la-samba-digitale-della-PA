@@ -4,7 +4,7 @@ http://pandoc.org/try
 
 
 +------------------------+
-|        !DANGER!        |
+|        !NOTE!          |
 |                        |
 | Beware killer rabbits! |
 +------------------------+
@@ -100,8 +100,8 @@ http://pandoc.org/try
 
 
 +---------------------------------------------------------------------+
-| Box                                                                                                |
-|                                                                                                    |
+| Attenzione                                                          |
+|                                                                     |
 | il movvv bbbbbbbbb bbbb bbb bbbbb bbbb bbbb bbb b b bbbbb b b bbbb b|
 | a nuove modalità di relazione e confronto con il mercato, in linea  |
 | con le grandi sfide poste da una Pubblica amministrazione           |
