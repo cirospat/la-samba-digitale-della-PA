@@ -216,7 +216,10 @@ Obiettivo temporale
 Responsabili per la realizzazione dell’azione
   individuazione del dirigente responsabile dell'azione (es. Mario Rossi, dirigente dei sistemi informativi del Comune di Vattelapesca, email e tel)
 
-|   
+|
+
+Dall'editing all'"online" senza passare dalla carta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
 
