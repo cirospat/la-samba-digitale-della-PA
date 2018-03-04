@@ -3,7 +3,7 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
 http://pandoc.org/try
 
 
-:Articolo CAD:: xxxxxxxx
+:Articolo CAD: xxxxxxxx
 
 :Comma CAD: xxxxxxxx
 
@@ -11,8 +11,7 @@ http://pandoc.org/try
 
 :Azione svolta: xxxxxxxx
 
-:Obiettivo da raggiungere per attuare 
-la prescrizione del CAD: xxxxxxxx
+:Obiettivo da raggiungere per attuare la prescrizione del CAD: xxxxxxxx
 
 :Azione da svolgere per raggiungere l'obiettivo: xxxxxxxx
 
