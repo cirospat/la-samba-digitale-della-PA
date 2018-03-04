@@ -18,8 +18,7 @@ Prescrizione CAD
    descrizione di cosa prescrive il CAD in quel comma dell'articolo
 
 Azione svolta
-   descrizione dell'azione già svolta dalla PA in relazione alla prescrizione del CAD 
-      (es. avere aderito alla Convenzione con AGID per attivare SPID nel portale istituzionale)
+   descrizione dell'azione già svolta dalla PA in relazione alla prescrizione del CAD (es. avere aderito alla Convenzione con AGID per attivare SPID nel portale istituzionale)
 
 Obiettivo da raggiungere per attuare la prescrizione del CAD
    descrizione dell'obiettivo da raggiungere per ottemperare alla prescrizione del CAD (es.: applicare le regole tecniche per attivare SPID, a seguito della sigla della convenzione con AGID)
