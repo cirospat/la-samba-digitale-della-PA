@@ -4,7 +4,7 @@ http://pandoc.org/try
 
 
 +------------------------+
-|        !NOTE!          |
+|         NOTE           |
 |                        |
 | Beware killer rabbits! |
 +------------------------+
@@ -51,23 +51,26 @@ http://pandoc.org/try
             as soon as it comes.
 
 
-.. list-table:: Frozen Delights!
-   :widths: 20,20,20
+.. list-table:: Piano performance nel CAD
+   :widths: 15,15,15,15,25,20,15,20
    :header-rows: 1
 
-   * - Treat
-     - Quantity
-     - Description
-   * - Albatross
-     - 2.99
-     - On a stick!
-   * - Crunchy Frog
-     - 1.49
-     - If we took the bones out, it wouldn't be
-       crunchy, now would it?
-   * - Gannet Ripple
-     - 1.99
-     - On a stick!
+   * - Articolo CAD
+     - ......
+   * - Comma CAD
+     - ......
+   * - Prescrizione CAD
+     - ......
+   * - Azione svolta
+     - ......
+   * - Obiettivo da raggiungere per attuare la prescrizione del CAD
+     - .......
+   * - Azione da svolgere per raggiungere l'obiettivo
+     - ......
+   * - Obiettivo temporale
+     - ......
+   * - Responsabili per la  realizzazione dell’azione 
+     - .....
 
 
 .. container:: custom
