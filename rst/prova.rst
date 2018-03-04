@@ -11,7 +11,8 @@ http://pandoc.org/try
 
 :Azione svolta: xxxxxxxx
 
-:Obiettivo da raggiungere per attuare la prescrizione del CAD: xxxxxxxx
+:Obiettivo da raggiungere per attuare 
+la prescrizione del CAD: xxxxxxxx
 
 :Azione da svolgere per raggiungere l'obiettivo: xxxxxxxx
 
