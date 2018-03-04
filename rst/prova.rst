@@ -3,14 +3,22 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
 http://pandoc.org/try
 
 
-::Articolo CAD:: .......
-:Comma CAD: .........
-:Prescrizione CAD: ........
-:Azione svolta: .....
-:Obiettivo da raggiungere per attuare la prescrizione del CAD: ......
-:Azione da svolgere per raggiungere l'obiettivo: ...........
-:Obiettivo temporale: ..............
-:Responsabili per la realizzazione dell’azione: ......
+:Articolo CAD:: xxxxxxxx
+
+:Comma CAD: xxxxxxxx
+
+:Prescrizione CAD: xxxxxxxx
+
+:Azione svolta: xxxxxxxx
+
+:Obiettivo da raggiungere per attuare la prescrizione del CAD: xxxxxxxx
+
+:Azione da svolgere per raggiungere l'obiettivo: xxxxxxxx
+
+:Obiettivo temporale: xxxxxxxx
+
+:Responsabili per la realizzazione dell’azione: xxxxxxxx
+
 
 
 
