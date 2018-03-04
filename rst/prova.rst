@@ -55,7 +55,7 @@ http://pandoc.org/try
 |
 
 .. list-table:: Piano performance nel CAD
-   :widths: 
+   :widths: auto
    :header-rows: 
 
    * - Articolo CAD
@@ -85,12 +85,6 @@ http://pandoc.org/try
 
 |
 
-.. csv-table:: Frozen Delights!
-   :header: "Articolo CAD", "Comma CAD", "Prescrizione CAD", "Azione svolta", 
-   "Obiettivo da raggiungere per attuare la prescrizione del CAD", "Azione da svolgere per raggiungere l'obiettivo", "Obiettivo temporale", "Responsabili per la  realizzazione dell’azione"
-   :widths: auto
-
-   ".........", ".........", ".........", ".........", ".........", "........."
 
    
 |
