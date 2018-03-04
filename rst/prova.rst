@@ -53,7 +53,7 @@ http://pandoc.org/try
 
 .. list-table:: Piano performance nel CAD
    :widths: 15,15,15,15,25,20,15,20
-   :header-rows: 1
+   :header-rows: 
 
    * - Articolo CAD
      - ......
