@@ -3,8 +3,8 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
 http://pandoc.org/try
 
 
-:Articolo_CAD: hhhhh
-:Comma_CAD: 1.0 of 2001/08/08 
+:Articolo CAD: hhhhh
+:Comma CAD: 1.0 of 2001/08/08 
 :Prescrizione_CAD: To my father.
 
 
