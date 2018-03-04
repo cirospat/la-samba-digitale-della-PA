@@ -34,6 +34,7 @@ http://pandoc.org/try
 | la PA.                |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 
+|
 
 .. sidebar:: Sidebar Title
    :subtitle: Optional Sidebar Subtitle
@@ -42,6 +43,7 @@ http://pandoc.org/try
    the body of the sidebar, and are
    interpreted as body elements.
    
+|
 
 .. line-block::
 
@@ -50,10 +52,11 @@ http://pandoc.org/try
         But I'm expecting a postal order and I can pay you back
             as soon as it comes.
 
+|
 
 .. list-table:: Piano performance nel CAD
-   :widths: 15,15,15,15,25,20,15,20
-   :header-rows: 
+   :widths: 20,20,20,20,20,20,20,20
+   :header-rows: 1
 
    * - Articolo CAD
      - ......
@@ -72,6 +75,7 @@ http://pandoc.org/try
    * - Responsabili per la  realizzazione dell’azione 
      - .....
 
+|
 
 .. container:: custom
 
