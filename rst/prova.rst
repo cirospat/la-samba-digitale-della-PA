@@ -86,13 +86,11 @@ http://pandoc.org/try
 |
 
 .. csv-table:: Frozen Delights!
-   :header: "Articolo CAD", "Comma CAD", "Prescrizione CAD", "Azione svolta", "Obiettivo da raggiungere per attuare la prescrizione del CAD"
+   :header: "Articolo CAD", "Comma CAD", "Prescrizione CAD", "Azione svolta", "Obiettivo da raggiungere per attuare la prescrizione del CAD", "Azione da svolgere per raggiungere l'obiettivo", "Obiettivo temporale", "Responsabili per la  realizzazione dell’azione"
    :widths: auto
 
-   "Albatross", 2.99, "On a stick!"
-   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
-   crunchy, now would it?"
-   "Gannet Ripple", 1.99, "On a stick!"
+   ".........", ".........", ".........", ".........", ".........", "........."
+
    
 |
 
