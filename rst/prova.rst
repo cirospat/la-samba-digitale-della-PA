@@ -4,7 +4,7 @@ http://pandoc.org/try
 
 
 +------------------------+
-|         NOTE           |
+|         !NOTE!         |
 |                        |
 | Beware killer rabbits! |
 +------------------------+
