@@ -3,30 +3,31 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html
 http://pandoc.org/try
 
 
+**Schema di Piano della Performance che include le prescrizioni del CAD**
 
 Articolo CAD
    indicazione del numero dell'articolo del CAD
 
 Comma CAD 
-   indicazione del numero del comma relatico all'articolo del CAD
+   indicazione del numero del comma relativo all'articolo del CAD
 
 Prescrizione CAD
    descrizione di cosa prescrive il CAD in quel comma dell'articolo
 
 Azione svolta
-   descrizione dell'azione già svolta dalla PA in relazione alla prescrizione del CAD (es. avere aderito alla Convenzione con AGID per avviare SPID,...)
+   descrizione dell'azione già svolta dalla PA in relazione alla prescrizione del CAD (es. avere aderito alla Convenzione con AGID per attivare SPID nel portale istituzionale)
 
 Obiettivo da raggiungere per attuare la prescrizione del CAD
-   descrizione dell'obiettivo da raggiungere per ottemperare alla prescrizione del CAD (es.: applicare le regole tecnice per attivare SPID dopo aver siglato la convenzione con AGID)
+   descrizione dell'obiettivo da raggiungere per ottemperare alla prescrizione del CAD (es.: applicare le regole tecniche per attivare SPID, a seguito della sigla della convenzione con AGID)
 
 Azione da svolgere per raggiungere l'obiettivo
    descrizione dell'azione specifica da porre in essere per raggiungere l'obiettivo (dare disposizioni al Settore servizi informativi, o eventualmente a Società informatica esterna, al fine di applicare le regole tecniche per l'attivazione di SPID nel portale istituzionale)
 
 Obiettivo temporale
-   indicazione dei mesi necessari per realizzare l'azione necessaria a raggiungere l'obiettivo e ottemperare alle prescrizioni del CAD
+   indicazione dei mesi necessari per realizzare l'azione utile a raggiungere l'obiettivo e ottemperare alle prescrizioni specifiche del CAD
 
 Responsabili per la realizzazione dell’azione
-  individuazione del dirigente responsabile dell'azione (es. Mario Rossi, dirigente dei sistemi informativi del Comune di Vattelapesca)
+  individuazione del dirigente responsabile dell'azione (es. Mario Rossi, dirigente dei sistemi informativi del Comune di Vattelapesca, email e tel)
 
 
 
