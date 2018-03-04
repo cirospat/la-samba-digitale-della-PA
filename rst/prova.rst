@@ -86,8 +86,8 @@ http://pandoc.org/try
 |
 
 .. csv-table:: Frozen Delights!
-   :header: "Treat", "Quantity", "Description"
-   :widths: 15, 10, 30
+   :header: "Articolo CAD", "Comma CAD", "Prescrizione CAD", "Azione svolta", "Obiettivo da raggiungere per attuare la prescrizione del CAD"
+   :widths: auto
 
    "Albatross", 2.99, "On a stick!"
    "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
