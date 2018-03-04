@@ -218,10 +218,10 @@ Responsabili per la realizzazione dell’azione
 
 |
 
-Dall'editing all'"online" senza passare dalla carta
+3.8 Dall'editing all'"online" senza passare dalla carta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
+**Quindi bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
 
 .. figure:: imgrel/tuttoonline.png
    :alt: tutto online
