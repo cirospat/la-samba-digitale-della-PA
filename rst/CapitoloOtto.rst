@@ -73,6 +73,8 @@ Ho **riusato** il ``codice`` inizialmente utilizzato dal Team Trasformazione Dig
 
 **Gli strumenti che mi sono stati utili**:
 
++ http://guida-docs-italia.readthedocs.io/it/latest/ la guida del Team Trasformazione Digitale dell'AgID per stimolare la PA all'uso di Github e Read the Docs per la documentazione dei progetti della Pubblica Amministrazione (presentata con questo `post di Lorenzo Fabbri su Medium <https://medium.com/team-per-la-trasformazione-digitale/docs-italia-open-government-collaborazione-pubblica-amministrazione-progetti-linguaggio-b89ff330e21b>`_;
+
 + http://docutils.sourceforge.net/docs/user/rst/quickref.html	guida alla sintassi del linguaggio **RST**, al momento non online e ripresa `qui <https://cirospat.github.io/la-samba-digitale-della-pa/rst>`_, utile per capire nel dettaglio come funziona la sintassi del linguaggio;
 
 + http://pandoc.org/try	tool per convertire il linguaggio **Markdown** nel linguaggio **RST**;
