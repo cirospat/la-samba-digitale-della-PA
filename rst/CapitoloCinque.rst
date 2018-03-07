@@ -46,9 +46,21 @@ Il Ministero per la Semplificazione e PA ha redatto Linee Guida su `“Appalti w
    
    L'espressione User Experience (in italiano esperienza d'uso) indica la condizione dell’utente durante l’interazione con un prodotto, un sistema o un servizio considerata nei suoi aspetti esperienziali, emozionali e valoriali. Riguarda anche ciò che l’utente percepisce in termini di utilità, semplicità ed efficienza nell’uso.
 
-|    
+|
 
-5.3 Il Design per i servizi web della PA
+5.3 Accessibilità dei siti web
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. figure:: imgrel/accessibilita.jpg
+   :alt: accessibilità
+   :align: center
+   
+L'Agenzia per l'Italia Digitale, con la Circolare 1/2016, definisce le modalità di pubblicazione degli **Obiettivi di accessibilità** che le pubbliche amministrazioni sono tenute annualmente a pubblicare sul proprio sito web (nel Portale Amministrazione Trasparente, sezione / 'Altri Contenuti' / sottosezione 'Accessibilità e catalogo di dati, metadati e banche dati').
+
+A tale scopo l'Agenzia mette a disposizione delle PA un `utile applicazione online <https://accessibilita.agid.gov.it/>`_ che permette alle PA di redigere e, successivamente, pubblicare i propri Obiettivi annuali di accessibilità. 
+
+|
+
+5.4 Il Design per i servizi web della PA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. figure:: imgrel/disegniamoservizi1.png
    :alt: disegniamo servizi
@@ -64,7 +76,7 @@ Dal Team Trasformazione Digitale dell’AGID vengono rese disponibili le `Linee 
 
 |
 
-5.4 Architettura dell’informazione
+5.5 Architettura dell’informazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. figure:: imgrel/architettura.png
    :alt: architettura
@@ -92,7 +104,7 @@ Questa check list dovrebbe essere verificata (da uno staff competente interno) i
 
 |
 
-5.5 Il FORMEZ forma la PA sulla qualità e design dei servizi web
+5.6 Il FORMEZ forma la PA sulla qualità e design dei servizi web
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    
 .. raw:: html
@@ -102,7 +114,7 @@ Il FormezPA è un ente che ha investito tantissimo sulla formazione concernente 
 
 |
 
-5.6 Sicurezza nei servizi web della PA
+5.7 Sicurezza nei servizi web della PA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Oltre al design è fondamentale assicurare la sicurezza dei servizi web della PA. A tal proposito l’AgID rende disponibili  le `“Linee guida per lo sviluppo del software sicuro nella Pubblica amministrazione” <http://www.agid.gov.it/notizie/2017/12/21/piano-triennale-line-linee-guida-sviluppo-del-software-sicuro>`_. Obiettivo: definire un’architettura della sicurezza per servizi web della PA. Queste linee guida si compongono di 4 ambiti tematici:
@@ -119,7 +131,7 @@ Sempre sulla sicurezza dei servizi ICT esistenti, l’AGID prevede un `adeguamen
 
 |
 
-5.7 Cosa tenere in considerazione nel co-design dei servizi digitali: i cittadini ne saranno felici perchè loro utilizzeranno i servizi!
+5.8 Cosa tenere in considerazione nel co-design dei servizi digitali: i cittadini ne saranno felici perchè loro utilizzeranno i servizi!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Nel caso di software che gestiscono processi amministrativi nella PA, in cui è prevista una forte componente di comunicazione bidirezionale tra dipendenti pubblici e cittadini (**inoltro richieste ⇄ per ottenimento servizi**), la Software House insieme ai dipendenti e dirigenti responsabili della gestione di processi amministrativi, dovrebbero avviare, prima dello sviluppo del software, alcune sessioni di **incontri pubblici con i cittadini per capire il modello di design della piattaforma che più soddisfa l’esigenza sia dei dipendenti pubblici che dei cittadini**. Questo è un punto fondamentale se si vuole che quella piattaforma gestionale sia utilizzata al meglio.
@@ -140,7 +152,7 @@ Nel caso di software che gestiscono processi amministrativi nella PA, in cui è 
    
 |
 
-5.8 Servizi online facili da capire e usare
+5.9 Servizi online facili da capire e usare
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. figure:: imgrel/uuu.PNG
    :alt: uuu
@@ -166,7 +178,7 @@ Le software house devono abituarsi a trattare questa materia (service co-design 
    
 |
 
-5.9 I contenuti sul web devono essere pensati principalmente per la fruizione su smartphone
+5.10 I contenuti sul web devono essere pensati principalmente per la fruizione su smartphone
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le PA che redigono contenuti per i siti web istituzionali devono verificare la rispondenza alla check-list creata dalla comunità italiana dei designer di servizi pubblici http://designers.italia.it, per una navigazione a prova di smartphone. PA, `ecco alcuni punti che faresti bene a non dimenticare <https://medium.com/designers-italia/siti-web-a-prova-di-smartphone-ecco-alcune-cose-che-faresti-bene-a-non-dimenticare-2d1418ed784d>`_.
@@ -221,7 +233,7 @@ E la community **Designers Italia** riprende questo approccio. `“Tra tecnologi
 
 |
 
-5.10 Una buona prassi nell'innovazione di processo e di servizio di una PA, con l’occhio al design
+5.11 Una buona prassi nell'innovazione di processo e di servizio di una PA, con l’occhio al design
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/consorziotrentino.png
@@ -261,7 +273,7 @@ Significa che il codice sviluppato per questa piattaforma può essere riutilizza
    
 |
 
-5.11 I social sono anche un servizio di informazione. PA, se hai creato il profilo, interagisci con i cittadini! Linee guida e comunità
+5.12 I social sono anche un servizio di informazione. PA, se hai creato il profilo, interagisci con i cittadini! Linee guida e comunità
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/socialmedia.png
