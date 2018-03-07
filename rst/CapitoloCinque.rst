@@ -54,7 +54,9 @@ Il Ministero per la Semplificazione e PA ha redatto Linee Guida su `“Appalti w
    :alt: accessibilità
    :align: center
    
-L'Agenzia per l'Italia Digitale, con la Circolare 1/2016, definisce le modalità di pubblicazione degli **Obiettivi di accessibilità** che le pubbliche amministrazioni sono tenute annualmente a pubblicare sul proprio sito web (nel Portale Amministrazione Trasparente, sezione / 'Altri Contenuti' / sottosezione 'Accessibilità e catalogo di dati, metadati e banche dati').
+L'Agenzia per l'Italia Digitale definisce le modalità di pubblicazione degli **Obiettivi di accessibilità** che le pubbliche amministrazioni sono tenute annualmente a pubblicare sul proprio sito web (nel Portale Amministrazione Trasparente, sezione / 'Altri Contenuti' / sottosezione 'Accessibilità e catalogo di dati, metadati e banche dati').
+
+Accessibilità: *“la capacità dei sistemi informatici, nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazioni, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari”* (`art. 2, comma a, Legge 4/2004 <http://www.agid.gov.it/legge-9-gennaio-2004-n-4>`_).
 
 A tale scopo l'Agenzia mette a disposizione delle PA un `utile applicazione online <https://accessibilita.agid.gov.it/>`_ che permette alle PA di redigere e, successivamente, pubblicare i propri Obiettivi annuali di accessibilità. 
 
