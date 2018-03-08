@@ -1,5 +1,5 @@
 ==================================================
-Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l’ “analisi dei processi”
+Cap 3. Per il passaggio al digitale 'totale' senza carta  serve fare l’'analisi dei processi'
 ==================================================
 
 .. raw:: html
