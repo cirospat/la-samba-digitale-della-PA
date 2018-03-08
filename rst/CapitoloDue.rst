@@ -1,5 +1,5 @@
 ==================================================
-Cap. 2 | Il processo amministrativo della PA, oggi, è sul binario digitale ⇄ analogico
+Cap 2. Il processo amministrativo della PA, oggi, è sul binario digitale ⇄ analogico
 ==================================================
 
 Oggi molte  Pubbliche Amministrazioni lavorano contemporaneamente **con la carta e con i file** (documento cartaceo → da tradizione, e documento informatico → da CAD). Ad esempio capita, non di rado, che se un cittadino o Azienda presenta una richiesta online di un servizio specifico, per l’ottenimento del quale è necessario inviare come allegati scansioni di documenti (carta identità, planimetria catastale, atto acquisto casa, ecc.), l’ufficio pubblico che riceve l’istanza per via telematica, costruisce il fascicolo in modalità cartacea all'interno dell’ufficio, anche se poi emette il provvedimento finale (autorizzazione, nulla osta, certificazione, ...) in modalità digitale, tipicamente in formato PDF.
