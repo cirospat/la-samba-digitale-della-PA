@@ -58,6 +58,10 @@ L'Agenzia per l'Italia Digitale definisce le modalità di pubblicazione degli **
 
 **Accessibilità**: *“la capacità dei sistemi informatici, nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazioni, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari”* (`art. 2, comma a, Legge 4/2004 <http://www.agid.gov.it/legge-9-gennaio-2004-n-4>`_).
 
+.. figure:: imgrel/accessibilitaagid.PNG
+   :alt: obiettivi di accessibilità
+   :align: center
+   
 A tale scopo l'Agenzia mette a disposizione delle PA un `utile applicazione online <https://accessibilita.agid.gov.it/>`_ che permette alle PA di redigere e, successivamente, pubblicare i propri Obiettivi annuali di accessibilità. 
 
 |
