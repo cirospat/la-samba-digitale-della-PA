@@ -1,5 +1,5 @@
 ================================================
-Cap. 7 | Conclusione (si fa per dire)
+Cap 7. Conclusioni
 ================================================
 
 Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubblica, avviate negli ultimi anni da diverse amministrazioni territoriali, dovrebbero focalizzare molta attenzione (fissando obiettivi e risultati attesi) proprio sulle attività di co-design dei servizi pubblici, servizi digitali in primis.
