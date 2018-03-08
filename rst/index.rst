@@ -101,7 +101,7 @@ Note finali
 ------------
 
 .. figure:: imgrel/opendatasicilialogo.PNG
-   :alt: digitale analogico digitale
+   :alt: opendatasicilia
    :align: center
 
 .. raw:: html
