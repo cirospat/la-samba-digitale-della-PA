@@ -1,5 +1,5 @@
 ======================================================
-Cap 4. Assicurare l'"interoperabilità" degli applicativi e delle relative banche dati
+Cap 4. Assicurare la 'interoperabilità' degli applicativi e delle relative banche dati
 ======================================================
 
 .. figure:: imgrel/interoperabilita.png
