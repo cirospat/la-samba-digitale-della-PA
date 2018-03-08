@@ -1,5 +1,5 @@
 =============================================================================
-Cap. 1 | Prefazione, ovvero lavoro ↴
+Cap 1. Prefazione, ovvero lavoro
 =============================================================================
 
 **in un grande amministrazione territoriale d’Italia da 28 anni. Ho i rudimenti di come funziona una PA dal suo interno, il modo (i processi) con il quale si lavora per erogare un servizio al cittadino, o per arrivare alla pubblicazione di un atto amministrativo con il quale si decide qualcosa per il governo del territorio.**
