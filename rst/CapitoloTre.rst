@@ -218,7 +218,7 @@ Responsabili per la realizzazione dell’azione
 
 |
 
-3.8 Dall'"editing" all'"online" senza passare dalla carta
+3.8 Dall''editing' all''online' senza passare dalla carta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Quindi bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
