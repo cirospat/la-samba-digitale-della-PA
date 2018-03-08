@@ -1,5 +1,5 @@
 ======================================================
-Cap. 5 | Attuare il Co-Design dei servizi pubblici per essere più vicini alle esigenze dei cittadini
+Cap 5. Attuare il co-design dei servizi pubblici per essere più vicini alle esigenze dei cittadini
 ======================================================
 
 .. figure:: imgrel/codesign.png
