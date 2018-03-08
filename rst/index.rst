@@ -99,6 +99,7 @@ Note finali
    CapitoloOtto.rst
    
 ------------
+
 .. figure:: imgrel/opendatasicilialogo.PNG
    :alt: digitale analogico digitale
    :align: center
