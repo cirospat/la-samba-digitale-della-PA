@@ -50,9 +50,9 @@ Perchè ``samba``? La samba è una danza molto ricca di movimenti coordinati e d
 
 Il **Comune di Palermo** mi da la possibilità di essere una piccola rotellina nel lungo percorso di miglioramentro dei servizi pubblici attraverso l'uso delle tecnologie digitali.
 
-La comunità di **OpendataSicilia** mi da l'opportunità di fare rete con altri soggetti per creare iniziative, azioni e progetti attraverso i quali miglioro informalmente le mie competenze digitali, che a sua volta condivido all'interno dell'amministrazione comunale.
+La comunità di **OpendataSicilia** mi da l'opportunità di fare rete con altri soggetti per creare, in maniera condivisa, iniziative, azioni e progetti, attraverso i quali miglioro informalmente le mie competenze digitali, che a sua volta condivido all'interno dell'amministrazione comunale.
 
-La comunità di **Developers Italia**, mi da la possibilità di accrescere le conoscenze e le competenze nel campo dello sviluppo dei servizi pubblici italiani.
+La comunità di **Developers Italia**, mi da la possibilità di accrescere le conoscenze e le competenze nel campo dello sviluppo dei servizi pubblici digitali.
 
 
 Marzo 2018 
