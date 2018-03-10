@@ -41,6 +41,8 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    :alt: docs italia
    :align: center
    
+   Guida del Team Trasformazione Digitale AGID per la costruzione di documenti pubblici su Read the Docs
+   
    
 .. important:: 
    **Pillole curative**
