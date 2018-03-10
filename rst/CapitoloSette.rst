@@ -17,9 +17,9 @@ Perchè sui servizi digitali, e relativa usabilità, si giocheranno le principal
 7.1 Competenze e abilità ICT necessarie nella PA! Formazione e comunicazione interna
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Non è solo un fattore di eliminazione della carta su cui viene stampato un certificato/documento di un ufficio pubblico. 
-| Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. 
-| Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. 
-| Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
+|Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. 
+|Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. 
+|Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
 
 **Formazione**
 
