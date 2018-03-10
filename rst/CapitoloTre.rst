@@ -37,7 +37,7 @@ il processo più o meno classico necessario da gestire in molti comuni (le azion
 
 A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo esempio) **è perfezionato**, cioè con la pubblicazione online (di solito in formato PDF) si è concluso il ciclo di vita dell’atto amministrativo. E’ il momento in cui inizia l’efficacia dell’atto amministrativo, cioè si attua ciò che è stato deciso con la Deliberazione.
 
-**Pubblicare documenti pubblici sulla piattaforma "Read the Docs"**
+**I formati dei documenti/atti e la pubblicazione dei documenti/atti pubblici sulla piattaforma "Read the Docs"**
 
 .. important:: 
    **Pillole curative**
