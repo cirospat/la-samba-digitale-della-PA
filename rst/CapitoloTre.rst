@@ -39,13 +39,6 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 
 **Pubblicare documenti pubblici sulla piattaforma "Read the Docs"**
 
-.. figure:: imgrel/guidadocsitalia.PNG
-   :alt: docs italia
-   :align: center
-   
-   `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ del Team Trasformazione Digitale AGID che spiega passo passo come costruire la pubblicazione di documenti pubblici sulla piattaforma **Read the Docs**
-   
-   
 .. important:: 
    **Pillole curative**
    
@@ -55,7 +48,14 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    
    **Uso di "Read The Docs" per la pubblicazione di documenti di testo.**
    
-   Atti pubblici importanti come Regolamenti, Direttive, Circolari, Convenzioni, Decreti, Accordi di partenariato, Protocolli di Intesa, ecc. quando risultano di consistente lunghezza e articolazione, potrebbero essere pubblicati sulla piattaforma Read The Docs (la piattaforma in cui è stato pubblicato questo report) con il vantaggio di rendere il testo facilmente consultabile attraveso la funzione di ricerca dei termini. Read The Docs comunque permette anche la generazione automatica dei formati PDF/A, HTML, EPUB in qualsiasi momento. Questo è un consiglio che mi sento di dare a tutte le PA. E' la piattaforma usata dal **Team Tasformazione Digitale dell'AGID** per la pubblicazione dei più importanti documenti della PA https://docs.developers.italia.it/. Lo stesso Team ha creato un documento chiamato `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ per spiegare ai referenti della PA come costruire un documento da leggere su Read the Docs.  
+   Atti pubblici importanti come Regolamenti, Direttive, Circolari, Convenzioni, Decreti, Accordi di partenariato, Protocolli di Intesa, ecc. quando risultano di consistente lunghezza e articolazione, potrebbero essere pubblicati sulla piattaforma Read The Docs (la piattaforma in cui è stato pubblicato questo report) con il vantaggio di rendere il testo facilmente consultabile attraveso la funzione di ricerca dei termini. Read The Docs comunque permette anche la generazione automatica dei formati PDF/A, HTML, EPUB in qualsiasi momento. Questo è un consiglio che mi sento di dare a tutte le PA. E' la piattaforma usata dal **Team Tasformazione Digitale dell'AGID** per la pubblicazione dei più importanti documenti della PA https://docs.developers.italia.it/. Lo stesso Team ha creato un documento chiamato `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ per spiegare ai referenti della PA come costruire un documento da leggere su Read the Docs. 
+
+.. figure:: imgrel/guidadocsitalia.PNG
+   :alt: docs italia
+   :align: center
+   
+   `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ del Team Trasformazione Digitale AGID che spiega passo passo come costruire la pubblicazione di documenti pubblici sulla piattaforma **Read the Docs**
+   
 
 |
 
