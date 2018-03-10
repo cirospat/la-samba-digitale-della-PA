@@ -35,7 +35,9 @@ il processo più o meno classico necessario da gestire in molti comuni (le azion
 
 **In Italia esistono comuni che gestiscono l’intero flusso di lavoro** su digitale attraverso un idoneo applicativo con l’ausilio della firma digitale apposta sul documento informatico, **ma ancora sono tanti i comuni che gestiscono il lavoro descritto col cartaceo**, come si vede spesso dalle deliberazioni pubblicate online dei portali comunali (in formato PDF immagine e non “PDF/A”,  che sta per aperto).
 
-A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo esempio) **è perfezionato**, cioè con la pubblicazione online (di solito in formato PDF) si è concluso il ciclo di vita dell’atto amministrativo. E’ il momento in cui inizia l’efficacia dell’atto amministrativo, cioè si attua ciò che è stato deciso con la Deliberazione .
+A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo esempio) **è perfezionato**, cioè con la pubblicazione online (di solito in formato PDF) si è concluso il ciclo di vita dell’atto amministrativo. E’ il momento in cui inizia l’efficacia dell’atto amministrativo, cioè si attua ciò che è stato deciso con la Deliberazione.
+
+**Pubblicare documenti pubblici sulla piattaforma "Read the Docs"**
 
 .. figure:: imgrel/guidadocsitalia.PNG
    :alt: docs italia
