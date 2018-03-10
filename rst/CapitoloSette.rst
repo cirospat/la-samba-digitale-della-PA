@@ -51,7 +51,7 @@ Nella gestione di specifici progetti che vedono impegnati più uffici di una PA,
    
    2) si fa in modo che entrino nella PA (dipendenti/dirigenti a contratto/progetto), 
    
-   3) si formano con percorsi e progetti ad hoc e con una costante formazione "informale"
+   3) si formano con percorsi e progetti ad hoc e con una costante formazione "informale".
 
 |
 
@@ -72,7 +72,7 @@ Nella gestione di specifici progetti che vedono impegnati più uffici di una PA,
    
    https://forum.italia.it/
 
-`Developers Forum <https://forum.italia.it/>`_ è la sezione online di **Developers Italia** nata per condividere, attraverso il dialogo e il confronto, conoscenza, competenze e strumenti sui servizi pubblici digitali. Uno spazio pubblico — che è anche di formazione — da usare da parte di dipendenti e dirigenti della PA, che in qualche modo, e a vario titolo, entrano nel processo di transizione dei servizi pubblici alla modalità digitale. Un luogo sicuramente dove fermarsi se si stanno affrontando  attività/progetti propedeutici alla nuova erogazione di servizi digitali.
+`Developers Forum <https://forum.italia.it/>`_ è la sezione online di **Developers Italia** nata per condividere, attraverso il dialogo e il confronto, conoscenza, competenze e strumenti sui servizi pubblici digitali. Uno spazio pubblico — che è anche di formazione — da usare da parte di dipendenti e dirigenti della PA, che in qualche modo, e a vario titolo, entrano nel processo di transizione dei servizi pubblici alla modalità digitale. Un luogo sicuramente dove fermarsi se si stanno affrontando attività/progetti propedeutici alla nuova erogazione di servizi digitali.
 
 **Diego Piacentini: il sistema operativo del Paese**
 
