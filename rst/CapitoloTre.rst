@@ -55,8 +55,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    :alt: docs italia
    :align: center
    
-   la `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ del Team Trasformazione Digitale AGID che spiega passo
-   passo come costruire la pubblicazione di documenti pubblici sulla piattaforma Read the Docs
+   la `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ del Team Trasformazione Digitale AGID che spiega passo passo come costruire la pubblicazione di documenti pubblici sulla piattaforma Read the Docs
 
 
 |
