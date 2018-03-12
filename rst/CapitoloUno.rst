@@ -7,7 +7,9 @@ Cap 1. Prefazione, ovvero lavoro
 
 1.1 Macchine da scrivere nel 2018
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Sono consapevole della quantità di carta che si utilizza per la redazione di ogni singolo atto amministrativo, del livello di penetrazione del digitale negli uffici e nelle singole persone, e del livello di accettazione del digitale, di quante stanze attraversano i fogli di carta sui quali vengono apposte le firme a penna per essere poi scansionate e pubblicate online. I fogli di carta firmati e i software, rappresentano oggi — in sintesi — i punti nodali dei processi amministrativi ai quali lavorano migliaia di dipendenti e dirigenti pubblici ogni giorno in Italia.
+Sono consapevole della quantità di carta che si utilizza per la redazione di ogni singolo atto amministrativo, del livello di penetrazione del digitale negli uffici e nelle singole persone, e del livello di accettazione del digitale, di quante stanze attraversano i fogli di carta sui quali vengono apposte le firme a penna per essere poi scansionate e pubblicate online. I fogli di carta firmati e i software usati, rappresentano oggi — in sintesi — i punti nodali dei processi amministrativi ai quali lavorano migliaia di dipendenti e dirigenti pubblici ogni giorno in Italia. 
+
+I PC spesso usati come macchine da scrivere (a fianco della stampante), devono diventare strumenti per la dematerializzazione dei processi amministrativi, quindi devono essere usate come macchine per la gestione dell'intero processo esclusivamente nella modalità digitale. Per raggiungere questo obiettivo non serve solo la tecnologia dei PC e dei software, ma soprattutto è inevitabile che le persone dentro la PA si mettano in gioco adottando nuovi modi di lavorare. É il dipendente insieme al dirigente, quindi, che devono mutare lo status del PC da 'macchina da scrivere' a strumento per la gestione totale del processo amministrativo in digitale! A quel punto la stampante si può anche togliere dal tavolo e metterla in uno sgabuzzino buio, come avvenuto per molte PA con il 'FAX'.
 
 
   
