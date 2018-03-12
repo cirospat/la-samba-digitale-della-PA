@@ -2,7 +2,7 @@
 Cap 7. Conclusioni
 ================================================
 
-Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubblica, avviate negli ultimi anni da diverse amministrazioni territoriali, dovrebbero focalizzare molta attenzione (fissando obiettivi e risultati attesi) proprio sulle attività di co-design dei servizi pubblici, servizi digitali in primis. Abbiamo visto come i cittadini sono i principali e diretti detinatari dei servizi pubblici ed è quindi a loro che deve essere data la parola (partecipazione) nella decisione del design dei servizi online.
+Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubblica, avviate negli ultimi anni da diverse amministrazioni territoriali, dovrebbero focalizzare molta attenzione (fissando obiettivi e risultati attesi) proprio sulle attività di co-design dei servizi pubblici, servizi digitali in primis. Abbiamo visto come i cittadini sono i principali e diretti destinatari dei servizi pubblici ed è quindi a loro che deve essere data la parola (partecipazione) nella decisione del design dei servizi online.
 
 .. figure:: imgrel/4persone.PNG
    :alt: incontro
