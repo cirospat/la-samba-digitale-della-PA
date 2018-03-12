@@ -17,5 +17,5 @@ Non entro in merito a ciò che prevede dettagliatamente e pedissequamente la nor
 
 Focalizzo l’attenzione sugli aspetti legati alle cose che si fanno ogni giorno (come lavoro) in molte stanze della PA e del modo in cui si fanno queste cose. Con un occhio anche a come si dovrebbero fare, secondo un Agenda Digitale nazionale. 
 
-E' un racconto dove, ogni tanto quando è necessario, richiamo il valido lavoro del Team Trasformazione Digitale dell'AgID svolto in due anni per agevolare la "transizione al digitale" delle pubbliche amministrazioni.
+E' un racconto dove, ogni tanto quando è necessario, richiamo il  `valido lavoro svolto in due anni dal Team Trasformazione Digitale dell'AgID <https://docs.developers.italia.it/>`_, per agevolare la "transizione al digitale" delle pubbliche amministrazioni.
 E ogni tanto rilascio qualche piccola pillola curativa (indolore) che penso possa servire a migliorare lo stato “digitale” del paziente PA :-)
