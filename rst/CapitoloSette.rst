@@ -2,7 +2,7 @@
 Cap 7. Conclusioni
 ================================================
 
-Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubblica, avviate negli ultimi anni da diverse amministrazioni territoriali, dovrebbero focalizzare molta attenzione (fissando obiettivi e risultati attesi) proprio sulle attività di co-design dei servizi pubblici, servizi digitali in primis.
+Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubblica, avviate negli ultimi anni da diverse amministrazioni territoriali, dovrebbero focalizzare molta attenzione (fissando obiettivi e risultati attesi) proprio sulle attività di co-design dei servizi pubblici, servizi digitali in primis. Abbiamo visto come i cittadini sono i principali e diretti detinatari dei servizi pubblici ed è quindi a loro che deve essere data la parola (partecipazione) nella decisione del design dei servizi online.
 
 .. figure:: imgrel/4persone.PNG
    :alt: incontro
@@ -10,15 +10,15 @@ Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubbl
    
    partecipazione della PA, software house e cittadini per il design dei servizi digitali (immagine lic. CC BY SA `Marco Antonio Torres via Flickr <https://www.flickr.com/photos/torres21/3052366534>`_)
    
-Perchè sui servizi digitali, e relativa usabilità, si giocheranno le principali sfide delle PA nei prossimi anni. Servizi da fruire innanzitutto in mobilità. Una PA con tutti i suoi servizi digitali (oggi in parte su cartaceo), pienamente e felicemente usati dai cittadini, sarà candidata a creare uno status di città gradevole in cui vivere, che riduce la mobilità legata allo scambio e movimentazione di carta.
+Sui servizi digitali, e relativa usabilità, si giocheranno le principali sfide delle PA nei prossimi anni. Servizi da fruire innanzitutto in mobilità. Una PA con tutti i suoi servizi digitali (oggi in parte su cartaceo), pienamente e felicemente usati dai cittadini, sarà candidata a creare uno status di città gradevole in cui vivere, che riduce la mobilità legata allo scambio e movimentazione inutile di carta .
 
 |
    
 7.1 Competenze e abilità ICT necessarie nella PA! Formazione e comunicazione interna
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Non è solo un fattore di eliminazione della carta su cui viene stampato un certificato/documento di un ufficio pubblico. 
-Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. 
-Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. 
+Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario,  intelligente, orizzontale e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. 
+Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti, e comunque già previsti da un Agenda Digitale che è nel Piano Triennale per l'Informatica della PA (AgID). 
 Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
 
 **Formazione**
@@ -32,26 +32,27 @@ E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili
 E' molto importante generare all'interno di una stessa PA un flusso di comunicazione tra i dipendenti e tra i dirigenti, al fine di rendere condiviso un livello ideale di informazioni utili a tutti.
 Da decenni è in uso la prassi delle "Circolari" che rappresenta una comunicazione di tipo unidirezionale top-down. Questo tipo di comunicazione non permette la nascita di interazioni di tipo multi direzionale tra i dipenenti/dirigenti in quanto le circolari vengono solo recepite (accettate). 
 
-I forum online rappresentano un valido strumento di comunicazione e condivisione delle informazioni e delle iniziative intraprese dentro una PA. Alcune Pa già utilizzano i forum (ad esempio il **Google Group**) traendone vantaggi in termini di condivisione rapida delle informazioni. Capita sovente che alcuni uffici non sono a conoscenza di un servizio digitale attivato da un altro ufficio per gestire processi di lavoro, e ciò può portare ad eventuali duplicazioni di adozione di analoghi applicativi a quelli utilizzati da uffici della stessa PA (soprattutto in quelle PA dove non c'è la società in house per i servizi informativi). 
+I forum online rappresentano un valido strumento di comunicazione e condivisione delle informazioni e delle iniziative intraprese dentro una PA. Alcune Pa già utilizzano i forum (ad esempio il **Google Group**) traendone vantaggi in termini di condivisione rapida delle informazioni. Capita sovente che alcuni uffici non sono a conoscenza di un servizio digitale attivato da un altro ufficio per gestire processi di lavoro, e ciò può portare ad eventuali duplicazioni di adozione di analoghi applicativi a quelli utilizzati da uffici della stessa PA (soprattutto in quelle PA dove non c'è una società in house che gestisce i servizi informativi). 
 
-L'utilizzo dei forum online tematici permette di velocizzare i processi di comunicazione interna rendendo fertile il terreno della proposizione di iniziative volte a migliorare le prestazioni degli uffici nella gestione delle attività di competenza. Il forum permette, ad esempio, di ottimizzare i processi di lavoro nei casi in cui i dipendenti/dirigenti di un ufficio sono alla ricerca di servizi o database che sono già a disposizione di altri uffici. 
+L'utilizzo dei forum online tematici permette di velocizzare i processi di comunicazione interna rendendo fertile il terreno della proposizione di iniziative volte a migliorare le prestazioni degli uffici nella gestione delle attività di competenza. Il forum permette, ad esempio, di ottimizzare i processi di lavoro nei casi in cui i dipendenti/dirigenti di un ufficio sono alla ricerca di servizi o database che sono già a disposizione di altri uffici (il caso più classico). 
 
-Nella gestione di specifici progetti che vedono impegnati più uffici di una PA, oltre all'ormai consueta abitudine dell'uso di email come strumento di comunicazione, risulta molto vantaggiosa, per la produttività, l'adozione di piattaforme quali **Slack** che oltre alla comunicazione in tempo reale multi utente, permettono anche la condivisione documentale. La piattaforma Slack **è utilizzata dal Team Trasformazione Digitale dell'AGID** per la gestione di attività progettuali **insieme ad alcune PA pilota**, è gratuito e molto facile da usare, e quindi rappresenta uno strumento usabile da tanti dipendenti e dirigenti delle PA in Italia.
+Nella gestione di specifici progetti che vedono impegnati più uffici di una PA, oltre all'ormai consueta abitudine dell'uso di email come strumento di comunicazione, risulta molto vantaggiosa, per la produttività, l'adozione di piattaforme quali **Slack** che oltre alla comunicazione in tempo reale multi utente, permettono anche la condivisione documentale. La piattaforma Slack **è utilizzata dal Team Trasformazione Digitale dell'AGID** per la gestione di attività progettuali **insieme ad alcune PA pilota**, è gratuito e molto facile da usare, e quindi rappresenta uno strumento usabile da tanti dipendenti e dirigenti delle PA in Italia. 
 
 
 .. note::
    **Pillole curative**:
    
    **Servono dirigenti e funzionari competenti in ICT nella PA**. 
+   
    E' la conclusione alla quale è arrivata la Commissione parlamentare di inchiesta su livello di digitalizzazione della PA, che condivido pienamente.
-   Se le competenze ICT sono assenti negli uffici pubblici, nessuna versione di CAD e di PIANO TRIENNALE ICT sarà in grado di far erogare pienamente ad una PA servizi (e gestire processi) digitali!
+   Se le competenze ICT sono assenti negli uffici pubblici, nessuna versione di CAD e di PIANO TRIENNALE ICT sarà in grado di far erogare pienamente ad una PA servizi (e gestire processi) digitali o di dematerializzare i processi gestionali basati oggi molto sull'uso della carta!
    Quindi servono dipendenti e dirigenti competenti in ICT nella PA: 
    
-   1) si scovano nei camerini in cui spesso si trovano non valorizzati da anni (dipendenti anche con capacità di sviluppatore software),
+   1) si scovano nelle stanze in cui a volte si trovano non valorizzati da anni (dipendenti anche con capacità di sviluppatore software),
    
-   2) si fa in modo che entrino nella PA (dipendenti/dirigenti a contratto/progetto), 
+   2) si fa in modo che entrino nella PA a vario titolo (dipendenti/dirigenti a contratto/progetto, consulenti, ...), 
    
-   3) si formano con percorsi e progetti ad hoc e con una costante formazione "informale".
+   3) si formano, quelli interni, con percorsi e progetti ad hoc e con una costante formazione "informale" (mooc, hackathon, webinar, forum online del Team Trasformazione Digitale https://forum.italia.it,...).
 
 |
 
