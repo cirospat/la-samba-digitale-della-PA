@@ -37,18 +37,19 @@ il processo più o meno classico necessario da gestire in molti comuni (le azion
 
 A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo esempio) **è perfezionato**, cioè con la pubblicazione online (di solito in formato PDF) si è concluso il ciclo di vita dell’atto amministrativo. E’ il momento in cui inizia l’efficacia dell’atto amministrativo, cioè si attua ciò che è stato deciso con la Deliberazione.
 
-**I formati dei documenti/atti e la pubblicazione dei documenti/atti pubblici sulla piattaforma "Read the Docs"**
+3.3 I formati dei documenti/atti e la pubblicazione dei documenti/atti pubblici sulla piattaforma "Read the Docs"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
+   
+La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero  essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il    formato di visualizzazione o di download. La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software gestionale.
+
 
 .. important:: 
    **Pillole curative**
    
-   **Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
-   
-   La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero  essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il    formato di visualizzazione o di download. La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software gestionale.
-   
    **Uso di "Read The Docs" per la pubblicazione di documenti di testo.**
    
-   Atti pubblici importanti come Regolamenti, Direttive, Circolari, Convenzioni, Decreti, Accordi di partenariato, Protocolli di Intesa, ecc. quando risultano di consistente lunghezza e articolazione, potrebbero essere pubblicati sulla piattaforma Read The Docs (la piattaforma in cui è stato pubblicato questo report) con il vantaggio di rendere il testo facilmente consultabile attraveso la funzione di ricerca dei termini. Read The Docs comunque permette anche la generazione automatica dei formati PDF/A, HTML, EPUB in qualsiasi momento. Questo è un consiglio che mi sento di dare a tutte le PA. E' la piattaforma usata dal **Team Tasformazione Digitale dell'AGID** per la pubblicazione dei più importanti documenti della PA https://docs.developers.italia.it/. Lo stesso Team ha creato un documento chiamato `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ per spiegare ai referenti della PA come costruire un documento da leggere su Read the Docs. 
+   Atti pubblici importanti come Regolamenti, Direttive, Circolari, Convenzioni, Decreti, Accordi di partenariato, Protocolli di Intesa, ecc. quando risultano di consistente lunghezza e articolazione, potrebbero essere pubblicati sulla piattaforma Read The Docs (la piattaforma in cui è stato pubblicato questo report) con il vantaggio di rendere il testo facilmente consultabile attraveso la funzione di ricerca dei termini. Read The Docs comunque permette anche la generazione automatica dei formati PDF/A, HTML, EPUB in qualsiasi momento. Questo è un consiglio che mi sento di dare a tutte le PA. E' la piattaforma usata dal **Team Tasformazione Digitale dell'AGID** per la pubblicazione dei più importanti documenti della PA https://docs.developers.italia.it/. Lo stesso Team ha creato un documento chiamato `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ per spiegare ai referenti della PA come costruire un documento da leggere su Read the Docs.    
    
 
 .. figure:: imgrel/guidadocsitalia.PNG
@@ -61,7 +62,7 @@ la `Guida a Docs Italia <http://guida-docs-italia.readthedocs.io/it/latest/>`_ d
 
 |
 
-3.3 La Firma (digitale / a penna)
+3.4 La Firma (digitale / a penna)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/firma_digitale.png
@@ -83,7 +84,7 @@ Questa è una delle tante analisi rapide che si possono fare del processo di ges
 
 |
 
-3.4 Processi correlati tra loro
+3.5 Processi correlati tra loro
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Capita anche che i processi non sono singoli, autonomi e separati gli uni da altri, ma alcuni processi sono in relazione ad altri processi gestiti da diversi uffici (si “incrociano”), e qui le cose si complicano. 
@@ -105,7 +106,7 @@ Quando capita che il dialogo di dati non esiste tra i diversi database dello ste
    
 |   
    
-3.5 Punti di contatto tra i processi amministrativi gestiti da diversi uffici
+3.6 Punti di contatto tra i processi amministrativi gestiti da diversi uffici
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/rami_intrecciati.png
@@ -139,7 +140,7 @@ Responsabile transizione al digitale (art. 17 CAD)? Data strategist/analyst? Que
    
 |   
    
-3.6 Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”
+3.7 Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/revisione.gif
@@ -184,7 +185,7 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
 
 |
 
-3.7 L'analisi dei processi come obiettivi nel Piano della Performance delle PA
+3.8 L'analisi dei processi come obiettivi nel Piano della Performance delle PA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Per attuare i contenuti del Codice dell'Amministrazione Digitale pienamente, e quindi attuare il passaggio alla modalità digitale    totale della PA, è consigliabile (se non inevitabile) inserire l'attività di "analisi dei singoli processi amministrativi" nel Piano della Performance. 
 
@@ -229,7 +230,7 @@ Responsabili per la realizzazione dell’azione
 
 |
 
-3.8 Dall'<editing> all'<online> senza passare dalla carta
+3.9 Dall'<editing> all'<online> senza passare dalla carta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Quindi bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
