@@ -114,11 +114,14 @@ Probabilmente le software house chiamate a costruire piattaforme digitali nella 
 
 Oggi, rispetto agli anni 80, considerati i progressi nel campo della Tecnologia della Comunicazione e dell’Informazione, c’è un ampia disponibilità di strumenti e metodi (mercato) per analizzare i criteri di costruzione di un applicativo necessario a gestire in digitale i processi della PA, ed è più facile effettuare una scelta tenendo in considerazione “come” i software gestiscono le singole azioni, quelle azioni con cui dipendenti e cittadini dovranno interfacciarsi quotidianamente su un monitor.
 
-**Acquisizione e riuso software**
-
-Sicuramente per le PA diventa azione indispensabile consultare e mettere in pratica i contenuti delle `Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni <https://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io>`_.
-
 Gli strumenti per la generazione e la diffusione di servizi digitali sono quelli previsti dal `cap. 7 del Piano Triennale per l’Informatica nella PA 2017–2019 <http://pianotriennale-ict.readthedocs.io/it/latest/doc/07_strumenti-per-la-generazione-e-la-diffusione-di-servizi-digitali.html>`_.
 
 .. figure:: imgrel/it.png
    :alt: it
+
+**Acquisizione e riuso software**
+
+.. figure:: imgrel/lgriusosoftware.PNG
+
+Sicuramente per le PA diventa azione indispensabile consultare e mettere in pratica i contenuti delle `Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni <https://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io>`_.
+
