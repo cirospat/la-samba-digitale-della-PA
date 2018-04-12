@@ -1,5 +1,5 @@
 ******************************************
-Cap 6. Costruire software gestionali e piattaforme digitali nella PA
+Cap 6. Costruire (e riusare) software gestionali e piattaforme digitali nella PA
 ******************************************
 
 
