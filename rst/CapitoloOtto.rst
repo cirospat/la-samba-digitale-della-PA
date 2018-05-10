@@ -2,7 +2,7 @@
 Cap 8. Note Finali, o forse disclaimer
 ******************************************
 
-Non sono un professionista delle tecnologie/strumenti digitali, questo si è capito! Solo un dipendente pubblico che vuole migliorare quotidianamente, insieme a colleghi e dirigenti e cittadini, il modo di lavorare dentro la propria PA per migliorare i servizi pubblici con l’ausilio delle tecnologie digitali. 
+Non sono un professionista delle tecnologie/strumenti digitali, questo si è capito! Solo `un dipendente pubblico <http://cirospat.readthedocs.io>`_ che vuole migliorare quotidianamente, insieme a colleghi e dirigenti e cittadini, il modo di lavorare dentro la propria PA per migliorare i servizi pubblici con l’ausilio delle tecnologie digitali. 
 
 Le riflessioni e analisi illustrate derivano da:
 
