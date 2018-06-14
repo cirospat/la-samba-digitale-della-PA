@@ -83,7 +83,7 @@ Ho **riusato** il ``codice`` inizialmente utilizzato dal Team Trasformazione Dig
 
 + http://rst.ninjs.org/	editor di testo per linguaggio **RST**;
 
-+ http://bit.do/markdownxgspreadsheet	estensione **Markdown** per tabelle su Google spreadsheet, converte tabelle in linguaggio **Markdown**;
++ https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold	estensione **Markdown** per tabelle su Google spreadsheet, converte tabelle in linguaggio **Markdown**;
 
 + http://docutils.sourceforge.net/docs/user/links.html#editors	editor utile per facilitare la scrittura in codice;
 
