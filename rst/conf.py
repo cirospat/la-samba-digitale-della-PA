@@ -4,11 +4,11 @@
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = u"Samba della transizione al digitale nella PA"
 settings_copyright_year = '2018'
-settings_copyright_name = ''
+settings_copyright_name = 'Ciro Spataro CC BY SA'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
 settings_basename = 'PA'
-settings_file_name = 'index'
+settings_file_name = 'PA'
 
 
 import sys
@@ -171,7 +171,7 @@ htmlhelp_basename = settings_basename + 'doc'
 
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'a4paper',
+'papersize': 'a4paper',
 
 # The font size ('10pt', '11pt' or '12pt').
 #'pointsize': '10pt',
