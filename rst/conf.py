@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = u"Samba della transizione al digitale nella PA"
+settings_project_name = "Samba della transizione al digitale nella PA"
 settings_copyright_year = '2018'
 settings_copyright_name = 'Ciro Spataro CC BY SA'
 settings_doc_version = 'version: latest'
